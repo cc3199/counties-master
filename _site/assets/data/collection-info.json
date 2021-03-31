@@ -1,0 +1,22 @@
+{ 
+    "title": "Beaverhead Mine Documents",
+    "url": "/Information/Collections/Mine-Files/Beaverhead/",
+    "image": "/Information/Collections/Mine-Files/Beaverhead/objects/Maps_Ajax_Mine_Topographic_No_Date.jpg", 
+    "description": "This collection contains mining documents for properties and claims within Beaverhead County in southwest Montana. These documents include assays, correspondence, maps, news clippings, photos, publications, reports, surveys, or other material related to any property. This webpage allows viewers to browse and search by claim or district on the navigation tabs above. Or you can search any keywords into the search bar. The 'Map' or 'Timeline' tabs may also aid in research and finding material using different contexts.",
+    "publisher": { 
+        "name": "Montana Bureau of Mines and Geology", 
+        "url": "https://www.mbmg.mtech.edu/main.asp", 
+        "logo": "assets\img\MBMG2012LogoTransparent.png" 
+    },
+    "date_start": "1905",
+    "date_end": "1988",
+    "objects": {
+        "image/jpeg": "344",
+        "application/pdf": "20",
+        null: "0"
+        
+    },
+    "data": "/Information/Collections/Mine-Files/Beaverhead/assets/data/datapackage.json",
+    "last_build_date": "2021-03-31"
+}
+

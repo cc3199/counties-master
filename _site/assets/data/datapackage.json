@@ -1,0 +1,140 @@
+{
+    "profile": "data-package",
+    "name": "beaverhead-mine-documents-data",
+    "title": "Beaverhead Mine Documents Data",
+    "description": "Metadata and data derived from Beaverhead Mine Documents. This collection contains mining documents for properties and claims within Beaverhead County in southwest Montana. These documents include assays, correspondence, maps, news clippings, photos, publications, reports, surveys, or other material related to any property. This webpage allows viewers to browse and search by claim or district on the navigation tabs above. Or you can search any keywords into the search bar. The &#39;Map&#39; or &#39;Timeline&#39; tabs may also aid in research and finding material using different contexts.",
+    "keywords":  ["montana"," beaverhead"," mining claims"," property files"," mines"],
+    "homepage": "/Information/Collections/Mine-Files/Beaverhead/",
+    "contributors": [
+        {
+            "title": "Montana Bureau of Mines and Geology",
+            "path": "https://www.mbmg.mtech.edu/main.asp",
+            "role": "author"
+        }
+    ],
+    "image": "/Information/Collections/Mine-Files/Beaverhead/objects/Maps_Ajax_Mine_Topographic_No_Date.jpg",
+    "licenses": [
+        {
+            "name": "CC0-1.0",
+            "title": "CC0 1.0",
+            "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    ],
+    "resources": [
+         
+        {
+            "name": "facets-json",
+            "path": "facets.json",
+            "title": "Beaverhead Mine Documents Metadata Facets",
+            "description":"Unique values and counts of metadata facet fields.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        
+        {
+            "name": "subject-csv",
+            "path": "subjects.csv",
+            "title": "Beaverhead Mine Documents metadata subject counts in csv",
+            "description": "Unique values and counts of metadata subject fields.",
+            "format":"csv",
+            "profile":"tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "subject",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "count",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "link",
+                        "type": "string",
+                        "format": "default"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "subjects-json",
+            "path": "subjects.json",
+            "title": "Beaverhead Mine Documents  metadata subject counts in json",
+            "description":"Unique values and counts of metadata subject fields.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        
+        {
+            "name": "locations-csv",
+            "path": "subjects.csv",
+            "title": "Beaverhead Mine Documents metadata location counts in csv",
+            "description": "Unique values and counts of metadata location fields.",
+            "format":"csv",
+            "profile":"tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "location",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "count",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "link",
+                        "type": "string",
+                        "format": "default"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "locations-json",
+            "path": "locations.json",
+            "title": "Beaverhead Mine Documents metadata location counts in json",
+            "description":"Unique values and counts of metadata location fields.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        
+        {
+            "name": "geodata-json",
+            "path": "geodata.json",
+            "title": "Beaverhead Mine Documents geographic metadata",
+            "description": "Geojson data containing all objects with lat-longs and associated descriptive metadata.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        
+        {
+            "name": "timeline-json",
+            "path": "timelinejs.json",
+            "title": "Beaverhead Mine Documents timeline metadata",
+            "description": "Time-based metadata formatted for TimelineJS or other applications.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        {
+            "name": "metadata-csv",
+            "path": "metadata.csv",
+            "title": "Beaverhead Mine Documents full metadata in csv",
+            "description": "Complete metadata export for Beaverhead Mine Documents objects.",
+            "format":"csv",
+            "profile":"data-resource"
+        },
+        {
+            "name": "metadata-json",
+            "path": "metadata.json",
+            "title": "Beaverhead Mine Documents full metadata in json",
+            "description": "Complete metadata export for Beaverhead Mine Documents objects.",
+            "format":"json",
+            "profile":"data-resource"
+        }
+    ]
+}
