@@ -5547,7 +5547,7 @@
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/orvana-general001</oai:identifier> 
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/orvana_general001</oai:identifier> 
                 <oai:datestamp>2021-03-31</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -5557,11 +5557,11 @@
                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
                 xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Orvana-General Folder Contents</dc:title>
+                    <dc:title>Orvana General Folder Contents</dc:title>
                     <dc:creator></dc:creator>
                     <dc:date></dc:date><dc:description>Folder Contents</dc:description>
-                    <dc:identifier>orvana-general001</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/orvana-general001.html</dc:identifier>
+                    <dc:identifier>orvana_general001</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/orvana_general001.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
