@@ -1,0 +1,12 @@
+field,display_name,browse_link,dc_map,schema_map
+title,Title,,DCTERMS.title,headline
+creator,Creator,,DCTERMS.creator,creator
+date,Date Created,,DCTERMS.created,dateCreated
+description,Description,,DCTERMS.description,description
+claim name,Claim,true
+district,District,true
+township,Township
+range,Range
+section,Section
+latitude,Latitude
+longitude,Longitude
