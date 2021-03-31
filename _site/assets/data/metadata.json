@@ -1,4 +1,424 @@
 { "objects": [{ 
+        "title": "Geology of Beaverhead County and Ajax Mine",
+        "creator": "Johon M. Conrow",
+        "date": "12/9/1941",
+        "description": "Geology of Beaverhead County and Ajax Mine",
+        "subject": "Correspondence; Ajax Mine; ",
+        "location": "Beaverhead",
+        "latitude": "45.52333",
+        "longitude": "-113.72389",
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "eng",
+        
+        
+        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/correspondence_ajax_mine_conrow_john_thomson_francis_12_9_1941_th.jpg",
+        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Correspondence_Ajax_Mine_Conrow_John_Thomson_Francis_12_9_1941.pdf",
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax001.html"
+    },
+    { 
+        "title": "Mountain Range and Location Information",
+        "creator": "Ralph H. King",
+        "date": "10/10/1969",
+        "description": "Mountain rainge and location information",
+        "subject": "Correspondence; Ajax Mine; ",
+        "location": "Beaverhead",
+        "latitude": "45.52333",
+        "longitude": "-113.72389",
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "eng",
+        
+        
+        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/correspondence_ajax_mine_king_ralph_vandelinder_george_10_10_1969_th.jpg",
+        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Correspondence_Ajax_Mine_King_Ralph_Vandelinder_George_10_10_1969.pdf",
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax002.html"
+    },
+    { 
+        "title": "Road Construction Near Ajax",
+        "creator": "H.G. McClernan",
+        "date": "9/15/1969",
+        "description": "Road construction near Ajax",
+        "subject": "Correspondence; Ajax Mine; ",
+        "location": "Beaverhead",
+        "latitude": "45.52333",
+        "longitude": "-113.72389",
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "eng",
+        
+        
+        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/correspondence_ajax_mine_mcclernan_h_g_jenkins_clay_09_15_1969_th.jpg",
+        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Correspondence_Ajax_Mine_Mcclernan_H_G_Jenkins_Clay_09_15_1969.pdf",
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax003.html"
+    },
+    { 
+        "title": "Geology of Beaverhead County and Ajax Mine",
+        "creator": "J.H. Jensen",
+        "date": "1/20/1936",
+        "description": "Geology of Beaverhead County and Ajax Mine",
+        "subject": "Correspondence; Ajax Mine; ",
+        "location": "Beaverhead",
+        "latitude": "45.52333",
+        "longitude": "-113.72389",
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "eng",
+        
+        
+        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/correspondence_ajax_mine_thomson_francis_sahinen_u_m_01_20_1936_th.jpg",
+        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Correspondence_Ajax_Mine_Thomson_Francis_Sahinen_U_M_01_20_1936.pdf",
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax004.html"
+    },
+    { 
+        "title": "Ajax Mine Information for Library",
+        "creator": "Mrs. George VanDelinder",
+        "date": "10/8/1969",
+        "description": "Ajax mine information for library",
+        "subject": "Correspondence; Ajax Mine; ",
+        "location": "Beaverhead",
+        "latitude": "45.52333",
+        "longitude": "-113.72389",
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "eng",
+        
+        
+        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/correspondence_ajax_mine_vandelinder_george_montana_college_technology_mineral_10_08_1969_th.jpg",
+        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Correspondence_Ajax_Mine_Vandelinder_George_Montana_College_Technology_Mineral_10_08_1969.pdf",
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax005.html"
+    },
+    { 
+        "title": "Ajax Status Cards",
+        "creator": "Clay Jenkins",
+        "date": "1972",
+        "description": "Ajax Status cards",
+        "subject": "Forms; Ajax Mine; Cards",
+        "location": "Beaverhead",
+        "latitude": "45.52333",
+        "longitude": "-113.72389",
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "eng",
+        
+        
+        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/forms_ajax_mine_mbmg_mine_status_card_1969_1970_1971_1972_th.jpg",
+        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Forms_Ajax_Mine_MBMG_Mine_Status_Card_1969_1970_1971_1972.pdf",
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax006.html"
+    },
+    { 
+        "title": "Ajax Status Cards",
+        "creator": "Clay Jenkins",
+        "date": "1976",
+        "description": "Ajax Status cards",
+        "subject": "Forms; Ajax Mine; Cards",
+        "location": "Beaverhead",
+        "latitude": "45.52333",
+        "longitude": "-113.72389",
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "eng",
+        
+        
+        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/forms_ajax_mine_mbmg_mine_status_card_1973_1974_1975_1976_th.jpg",
+        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Forms_Ajax_Mine_MBMG_Mine_Status_Card_1973_1974_1975_1976.pdf",
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax007.html"
+    },
+    { 
+        "title": "Ajax Status Cards",
+        "creator": "Clay Jenkins",
+        "date": "1979",
+        "description": "Ajax Status cards",
+        "subject": "Forms; Ajax Mine; Cards",
+        "location": "Beaverhead",
+        "latitude": "45.52333",
+        "longitude": "-113.72389",
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "eng",
+        
+        
+        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/forms_ajax_mine_mbmg_mine_status_card_1977_1978_1979_1980_th.jpg",
+        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Forms_Ajax_Mine_MBMG_Mine_Status_Card_1977_1978_1979_1980.pdf",
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax008.html"
+    },
+    { 
+        "title": "Ajax Status Cards",
+        "creator": "Clay Jenkins",
+        "date": "1984",
+        "description": "Ajax Status cards",
+        "subject": "Forms; Ajax Mine; Cards",
+        "location": "Beaverhead",
+        "latitude": "45.52333",
+        "longitude": "-113.72389",
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "eng",
+        
+        
+        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/forms_ajax_mine_mbmg_mine_status_card_1981_1982_1983_1984_th.jpg",
+        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Forms_Ajax_Mine_MBMG_Mine_Status_Card_1981_1982_1983_1984.pdf",
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax009.html"
+    },
+    { 
+        "title": "Ajax Status Cards",
+        "creator": "Clay Jenkins",
+        "date": "1986",
+        "description": "Ajax Status cards",
+        "subject": "Forms; Ajax Mine; Cards",
+        "location": "Beaverhead",
+        "latitude": "45.52333",
+        "longitude": "-113.72389",
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "eng",
+        
+        
+        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/forms_ajax_mine_mbmg_mine_status_card_1985_1986_th.jpg",
+        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Forms_Ajax_Mine_MBMG_Mine_Status_Card_1985_1986.pdf",
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax010.html"
+    },
+    { 
+        "title": "Topographic Map Including Ajax Mine",
+        
+        
+        "description": "Topographic map including Ajax Mine",
+        "subject": "Maps; Ajax Mine; Topographic Map;",
+        "location": "Beaverhead",
+        "latitude": "45.52333",
+        "longitude": "-113.72389",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        
+        
+        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/maps_ajax_mine_topographic_no_date_th.jpg",
+        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Maps_Ajax_Mine_Topographic_No_Date.jpg",
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax011.html"
+    },
+    { 
+        "title": "Family Revives Old Ajax Mine",
+        
+        "date": "8/9/1981",
+        "description": "Family Revives Old Ajax Mine",
+        "subject": "Newsclippings; Ajax Mine;",
+        "location": "Beaverhead",
+        "latitude": "45.52333",
+        "longitude": "-113.72389",
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "eng",
+        
+        
+        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/newsclippings_ajax_mine_montana_standard_08_09_1981_th.jpg",
+        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Newsclippings_Ajax_Mine_Montana_Standard_08_09_1981.pdf",
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax012.html"
+    },
+    { 
+        "title": "Beaverhead Forest Hydrologist Jeff Reiner",
+        
+        "date": "8/9/1981",
+        "description": "Beaverhead forest hydrologist Jeff Reiner",
+        "subject": "Newsclippings; Ajax Mine;",
+        "location": "Beaverhead",
+        "latitude": "45.52333",
+        "longitude": "-113.72389",
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "eng",
+        
+        
+        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/newsclippings_ajax_mine_montana_standard_08_09_1981_b_th.jpg",
+        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Newsclippings_Ajax_Mine_Montana_Standard_08_09_1981_B.pdf",
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax013.html"
+    },
+    { 
+        "title": "Beaverhead Talc Mine",
+        
+        "date": "4/3/1986",
+        "description": "Beaverhead Talc Mine",
+        "subject": "Newsclippings; Beaverhead Mine",
+        "location": "Beaverhead",
+        "latitude": "45.52333",
+        "longitude": "-113.72389",
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "eng",
+        
+        
+        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/newsclippings_ajax_mine_wallace_miner_04_03_1986_th.jpg",
+        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Newsclippings_Ajax_Mine_Wallace_Miner_04_03_1986.pdf",
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax014.html"
+    },
+    { 
+        "title": "The Story of Ajax",
+        "creator": "Alva Josiah Noyes",
+        "date": "3/28/1905",
+        "description": "The Story of Ajax",
+        "subject": "Publications; Ajax",
+        "location": "Beaverhead",
+        "latitude": "45.52333",
+        "longitude": "-113.72389",
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "eng",
+        
+        
+        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/publications_ajax_mine_noyes_alva_1914_th.jpg",
+        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Publications_Ajax_Mine_Noyes_Alva_1914.pdf",
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax015.html"
+    },
+    { 
+        "title": "Ajax Mine General Informaiton",
+        
+        
+        "description": "Ajax mine general informaiton",
+        "subject": "Report; Ajax Mine",
+        "location": "Beaverhead",
+        "latitude": "45.52333",
+        "longitude": "-113.72389",
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "eng",
+        
+        
+        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/reports_ajax_mine_bulletin_85_mbmg_th.jpg",
+        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Reports_Ajax_Mine_Bulletin_85_MBMG.pdf",
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax016.html"
+    },
+    { 
+        "title": "Ajax Location Information and Summary",
+        
+        
+        "description": "Ajax Location Information and Summary",
+        "subject": "Report; Ajax Mine",
+        "location": "Beaverhead",
+        "latitude": "45.52333",
+        "longitude": "-113.72389",
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "eng",
+        
+        
+        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/reports_ajax_mine_location_information_th.jpg",
+        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Reports_Ajax_Mine_Location_Information.pdf",
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax017.html"
+    },
+    { 
+        "title": "Ajax Mine General Information",
+        
+        
+        "description": "Ajax mine general information",
+        "subject": "Report; Ajax Mine",
+        "location": "Beaverhead",
+        "latitude": "45.52333",
+        "longitude": "-113.72389",
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "eng",
+        
+        
+        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/reports_ajax_mine_mine_summaries_and_descriptions_th.jpg",
+        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Reports_Ajax_Mine_Mine_Summaries_and_Descriptions.pdf",
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax018.html"
+    },
+    { 
+        "title": "Report on the Ajax Group",
+        "creator": "Fred Greene",
+        
+        "description": "Report on the Ajax Group",
+        "subject": "Report; Ajax Mine",
+        "location": "Beaverhead",
+        "latitude": "45.52333",
+        "longitude": "-113.72389",
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "eng",
+        
+        
+        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/reports_ajax_mine_mine_summaries_greene_fred_03_1904_th.jpg",
+        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Reports_Ajax_Mine_Mine_Summaries_Greene_Fred_03_1904.pdf",
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax019.html"
+    },
+    { 
+        "title": "Mineral Resources of the West Big Hole Study Area, Beaverhead County, Montana",
+        "creator": "David A. Lipton; Martin D. Conyac; Spencer L. Willettt",
+        "date": "1988",
+        "description": "Mineral Resources of the West Big Hole Study Area, Beaverhead County, Montana",
+        "subject": "Report; Ajax Mine",
+        "location": "Beaverhead",
+        "latitude": "45.52333",
+        "longitude": "-113.72389",
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "eng",
+        
+        
+        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/reports_ajax_mine_open_file_report_usbom_1988_th.jpg",
+        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Reports_Ajax_Mine_Open_File_Report_USBOM_1988.pdf",
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax020.html"
+    },
+    { 
+        "title": "USBOM Ajax Location Information",
+        
+        
+        "description": "USBOM Ajax Location Information",
+        "subject": "Report; Ajax Mine",
+        "location": "Beaverhead",
+        "latitude": "45.52333",
+        "longitude": "-113.72389",
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "eng",
+        
+        
+        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/reports_ajax_mine_usbom_location_information_th.jpg",
+        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Reports_Ajax_Mine_USBOM_Location_Information.pdf",
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax021.html"
+    },
+    { 
         "title": "A Jack Folder Contents",
         
         
@@ -19,26 +439,6 @@
         "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajack001.html"
     },
     { 
-        "title": "Alexander Folder Contents",
-        
-        
-        "description": "Folder Contents",
-        "subject": "Contents; Alice Mine",
-        "location": "Beaverhead",
-        "latitude": "45.5597",
-        "longitude": "-113.1926",
-        
-        
-        "type": "Image;StillImage",
-        "format": "image/jpeg",
-        "language": "eng",
-        
-        
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/alexander_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Alexander.jpg",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/alexander001.html"
-    },
-    { 
         "title": "Alice Folder Contents",
         
         
@@ -57,6 +457,26 @@
         "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/alice_th.jpg",
         "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Alice.jpg",
         "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/alice001.html"
+    },
+    { 
+        "title": "Alexander Folder Contents",
+        
+        
+        "description": "Folder Contents",
+        "subject": "Contents; Alice Mine",
+        "location": "Beaverhead",
+        "latitude": "45.5597",
+        "longitude": "-113.1926",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        
+        
+        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/alexander_th.jpg",
+        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Alexander.jpg",
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/alexander001.html"
     },
     { 
         "title": "Alumont Mining Company Folder Contents",
@@ -1299,106 +1719,6 @@
         "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/copper_queen001.html"
     },
     { 
-        "title": "Geology of Beaverhead County and Ajax Mine",
-        "creator": "Johon M. Conrow",
-        "date": "12/9/1941",
-        "description": "Geology of Beaverhead County and Ajax Mine",
-        "subject": "Correspondence; Ajax Mine; ",
-        "location": "Beaverhead",
-        "latitude": "45.52333",
-        "longitude": "-113.72389",
-        
-        
-        "type": "Image;StillImage",
-        "format": "application/pdf",
-        "language": "eng",
-        
-        
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/correspondence_ajax_mine_conrow_john_thomson_francis_12_9_1941_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Correspondence_Ajax_Mine_Conrow_John_Thomson_Francis_12_9_1941.pdf",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax001.html"
-    },
-    { 
-        "title": "Mountain Range and Location Information",
-        "creator": "Ralph H. King",
-        "date": "10/10/1969",
-        "description": "Mountain rainge and location information",
-        "subject": "Correspondence; Ajax Mine; ",
-        "location": "Beaverhead",
-        "latitude": "45.52333",
-        "longitude": "-113.72389",
-        
-        
-        "type": "Image;StillImage",
-        "format": "application/pdf",
-        "language": "eng",
-        
-        
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/correspondence_ajax_mine_king_ralph_vandelinder_george_10_10_1969_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Correspondence_Ajax_Mine_King_Ralph_Vandelinder_George_10_10_1969.pdf",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax002.html"
-    },
-    { 
-        "title": "Road Construction Near Ajax",
-        "creator": "H.G. McClernan",
-        "date": "9/15/1969",
-        "description": "Road construction near Ajax",
-        "subject": "Correspondence; Ajax Mine; ",
-        "location": "Beaverhead",
-        "latitude": "45.52333",
-        "longitude": "-113.72389",
-        
-        
-        "type": "Image;StillImage",
-        "format": "application/pdf",
-        "language": "eng",
-        
-        
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/correspondence_ajax_mine_mcclernan_h_g_jenkins_clay_09_15_1969_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Correspondence_Ajax_Mine_Mcclernan_H_G_Jenkins_Clay_09_15_1969.pdf",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax003.html"
-    },
-    { 
-        "title": "Geology of Beaverhead County and Ajax Mine",
-        "creator": "J.H. Jensen",
-        "date": "1/20/1936",
-        "description": "Geology of Beaverhead County and Ajax Mine",
-        "subject": "Correspondence; Ajax Mine; ",
-        "location": "Beaverhead",
-        "latitude": "45.52333",
-        "longitude": "-113.72389",
-        
-        
-        "type": "Image;StillImage",
-        "format": "application/pdf",
-        "language": "eng",
-        
-        
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/correspondence_ajax_mine_thomson_francis_sahinen_u_m_01_20_1936_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Correspondence_Ajax_Mine_Thomson_Francis_Sahinen_U_M_01_20_1936.pdf",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax004.html"
-    },
-    { 
-        "title": "Ajax Mine Information for Library",
-        "creator": "Mrs. George VanDelinder",
-        "date": "10/8/1969",
-        "description": "Ajax mine information for library",
-        "subject": "Correspondence; Ajax Mine; ",
-        "location": "Beaverhead",
-        "latitude": "45.52333",
-        "longitude": "-113.72389",
-        
-        
-        "type": "Image;StillImage",
-        "format": "application/pdf",
-        "language": "eng",
-        
-        
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/correspondence_ajax_mine_vandelinder_george_montana_college_technology_mineral_10_08_1969_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Correspondence_Ajax_Mine_Vandelinder_George_Montana_College_Technology_Mineral_10_08_1969.pdf",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax005.html"
-    },
-    { 
         "title": "Cottontail Mine Folder Contents",
         
         
@@ -2157,106 +2477,6 @@
         "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/florence_th.jpg",
         "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Florence.jpg",
         "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/florence001.html"
-    },
-    { 
-        "title": "Ajax Status Cards",
-        "creator": "Clay Jenkins",
-        "date": "1972",
-        "description": "Ajax Status cards",
-        "subject": "Forms; Ajax Mine; Cards",
-        "location": "Beaverhead",
-        "latitude": "45.52333",
-        "longitude": "-113.72389",
-        
-        
-        "type": "Image;StillImage",
-        "format": "application/pdf",
-        "language": "eng",
-        
-        
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/forms_ajax_mine_mbmg_mine_status_card_1969_1970_1971_1972_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Forms_Ajax_Mine_MBMG_Mine_Status_Card_1969_1970_1971_1972.pdf",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax006.html"
-    },
-    { 
-        "title": "Ajax Status Cards",
-        "creator": "Clay Jenkins",
-        "date": "1976",
-        "description": "Ajax Status cards",
-        "subject": "Forms; Ajax Mine; Cards",
-        "location": "Beaverhead",
-        "latitude": "45.52333",
-        "longitude": "-113.72389",
-        
-        
-        "type": "Image;StillImage",
-        "format": "application/pdf",
-        "language": "eng",
-        
-        
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/forms_ajax_mine_mbmg_mine_status_card_1973_1974_1975_1976_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Forms_Ajax_Mine_MBMG_Mine_Status_Card_1973_1974_1975_1976.pdf",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax007.html"
-    },
-    { 
-        "title": "Ajax Status Cards",
-        "creator": "Clay Jenkins",
-        "date": "1979",
-        "description": "Ajax Status cards",
-        "subject": "Forms; Ajax Mine; Cards",
-        "location": "Beaverhead",
-        "latitude": "45.52333",
-        "longitude": "-113.72389",
-        
-        
-        "type": "Image;StillImage",
-        "format": "application/pdf",
-        "language": "eng",
-        
-        
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/forms_ajax_mine_mbmg_mine_status_card_1977_1978_1979_1980_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Forms_Ajax_Mine_MBMG_Mine_Status_Card_1977_1978_1979_1980.pdf",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax008.html"
-    },
-    { 
-        "title": "Ajax Status Cards",
-        "creator": "Clay Jenkins",
-        "date": "1984",
-        "description": "Ajax Status cards",
-        "subject": "Forms; Ajax Mine; Cards",
-        "location": "Beaverhead",
-        "latitude": "45.52333",
-        "longitude": "-113.72389",
-        
-        
-        "type": "Image;StillImage",
-        "format": "application/pdf",
-        "language": "eng",
-        
-        
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/forms_ajax_mine_mbmg_mine_status_card_1981_1982_1983_1984_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Forms_Ajax_Mine_MBMG_Mine_Status_Card_1981_1982_1983_1984.pdf",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax009.html"
-    },
-    { 
-        "title": "Ajax Status Cards",
-        "creator": "Clay Jenkins",
-        "date": "1986",
-        "description": "Ajax Status cards",
-        "subject": "Forms; Ajax Mine; Cards",
-        "location": "Beaverhead",
-        "latitude": "45.52333",
-        "longitude": "-113.72389",
-        
-        
-        "type": "Image;StillImage",
-        "format": "application/pdf",
-        "language": "eng",
-        
-        
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/forms_ajax_mine_mbmg_mine_status_card_1985_1986_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Forms_Ajax_Mine_MBMG_Mine_Status_Card_1985_1986.pdf",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax010.html"
     },
     { 
         "title": "Free Silver Folder Contents",
@@ -4419,26 +4639,6 @@
         "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/maiden_creek_copper001.html"
     },
     { 
-        "title": "Topographic Map Including Ajax Mine",
-        
-        
-        "description": "Topographic map including Ajax Mine",
-        "subject": "Maps; Ajax Mine; Topographic Map;",
-        "location": "Beaverhead",
-        "latitude": "45.52333",
-        "longitude": "-113.72389",
-        
-        
-        "type": "Image;StillImage",
-        "format": "image/jpeg",
-        "language": "eng",
-        
-        
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/maps_ajax_mine_topographic_no_date_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Maps_Ajax_Mine_Topographic_No_Date.jpg",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax011.html"
-    },
-    { 
         "title": "Mark Twain",
         
         
@@ -4623,7 +4823,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Miwanatock",
+        "subject": "Contents;Miwanatock",
         "location": "Beaverhead",
         
         
@@ -4643,7 +4843,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Montana Lode",
+        "subject": "Contents;Montana Lode",
         "location": "Beaverhead",
         "latitude": "45.5625",
         "longitude": "-113.7272",
@@ -4663,7 +4863,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Monte Cristo",
+        "subject": "Contents;Monte Cristo",
         "location": "Beaverhead",
         "latitude": "45.7314",
         "longitude": "-112.9022",
@@ -4683,7 +4883,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Montezuma",
+        "subject": "Contents;Montezuma",
         "location": "Beaverhead",
         "latitude": "45.3705",
         "longitude": "-113.0898",
@@ -4703,7 +4903,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Montreal",
+        "subject": "Contents;Montreal",
         "location": "Beaverhead",
         "latitude": "45.48057",
         "longitude": "-113.05768",
@@ -4723,7 +4923,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Monument",
+        "subject": "Contents;Monument",
         "location": "Beaverhead",
         "latitude": "45.0003",
         "longitude": "-113.3214",
@@ -4739,11 +4939,11 @@
         "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/monument001.html"
     },
     { 
-        "title": "Moose Horn Folder Contents",
+        "title": "Moosehorn Folder Contents",
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Moose Horn",
+        "subject": "Contents;Moosehorn",
         "location": "Beaverhead",
         "latitude": "45.5597",
         "longitude": "-113.7319",
@@ -4754,16 +4954,16 @@
         "language": "eng",
         
         
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/moose_horn_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Moose_Horn.jpg",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/moose_horn001.html"
+        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/moosehorn_th.jpg",
+        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Moosehorn.jpg",
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/moosehorn001.html"
     },
     { 
         "title": "Mountain Sheep Folder Contents",
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Mountain Sheep",
+        "subject": "Contents;Mountain Sheep",
         "location": "Beaverhead",
         "latitude": "45.5886",
         "longitude": "-112.9264",
@@ -4783,7 +4983,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Nevada",
+        "subject": "Contents;Nevada",
         "location": "Beaverhead",
         "latitude": "44.9622",
         "longitude": "-112.4822",
@@ -4803,7 +5003,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;New Ariadne",
+        "subject": "Contents;New Ariadne",
         "location": "Beaverhead",
         "latitude": "45.606111",
         "longitude": "-112.929444",
@@ -4823,7 +5023,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;New Deal",
+        "subject": "Contents;New Deal",
         "location": "Beaverhead",
         
         
@@ -4843,7 +5043,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;New Departure",
+        "subject": "Contents;New Departure",
         "location": "Beaverhead",
         "latitude": "45.1975",
         "longitude": "-112.9208",
@@ -4863,7 +5063,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;New Year 1910",
+        "subject": "Contents;New Year 1910",
         "location": "Beaverhead",
         "latitude": "45.47802",
         "longitude": "-113.04567",
@@ -4879,71 +5079,11 @@
         "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/new_year_1910001.html"
     },
     { 
-        "title": "Family Revives Old Ajax Mine",
-        
-        "date": "8/9/1981",
-        "description": "Family Revives Old Ajax Mine",
-        "subject": "Newsclippings; Ajax Mine;",
-        "location": "Beaverhead",
-        "latitude": "45.52333",
-        "longitude": "-113.72389",
-        
-        
-        "type": "Image;StillImage",
-        "format": "application/pdf",
-        "language": "eng",
-        
-        
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/newsclippings_ajax_mine_montana_standard_08_09_1981_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Newsclippings_Ajax_Mine_Montana_Standard_08_09_1981.pdf",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax012.html"
-    },
-    { 
-        "title": "Beaverhead Forest Hydrologist Jeff Reiner",
-        
-        "date": "8/9/1981",
-        "description": "Beaverhead forest hydrologist Jeff Reiner",
-        "subject": "Newsclippings; Ajax Mine;",
-        "location": "Beaverhead",
-        "latitude": "45.52333",
-        "longitude": "-113.72389",
-        
-        
-        "type": "Image;StillImage",
-        "format": "application/pdf",
-        "language": "eng",
-        
-        
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/newsclippings_ajax_mine_montana_standard_08_09_1981_b_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Newsclippings_Ajax_Mine_Montana_Standard_08_09_1981_B.pdf",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax013.html"
-    },
-    { 
-        "title": "Beaverhead Talc Mine",
-        
-        "date": "4/3/1986",
-        "description": "Beaverhead Talc Mine",
-        "subject": "Newsclippings; Beaverhead Mine",
-        "location": "Beaverhead",
-        "latitude": "45.52333",
-        "longitude": "-113.72389",
-        
-        
-        "type": "Image;StillImage",
-        "format": "application/pdf",
-        "language": "eng",
-        
-        
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/newsclippings_ajax_mine_wallace_miner_04_03_1986_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Newsclippings_Ajax_Mine_Wallace_Miner_04_03_1986.pdf",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax014.html"
-    },
-    { 
         "title": "Niagara Folder Contents",
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Niagara",
+        "subject": "Contents;Niagara",
         "location": "Beaverhead",
         "latitude": "45.60417",
         "longitude": "-112.94821",
@@ -4963,7 +5103,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Nick Preen",
+        "subject": "Contents;Nick Preen",
         "location": "Beaverhead",
         "latitude": "45.3156",
         "longitude": "-113.0319",
@@ -4983,7 +5123,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Nickel Lode",
+        "subject": "Contents;Nickel Lode Claims",
         "location": "Beaverhead",
         "latitude": "45.08071",
         "longitude": "-112.40572",
@@ -5003,7 +5143,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;North Star",
+        "subject": "Contents;North Star",
         "location": "Beaverhead",
         "latitude": "45.8533",
         "longitude": "-113.0881",
@@ -5023,7 +5163,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Old Elkhorn",
+        "subject": "Contents;Old Elkhorn",
         "location": "Beaverhead",
         "latitude": "45.49",
         "longitude": "-113.0386",
@@ -5043,7 +5183,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Old Faithful",
+        "subject": "Contents;Old Faithful",
         "location": "Beaverhead",
         "latitude": "45.2992",
         "longitude": "-113.0233",
@@ -5063,7 +5203,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Oneida Mine",
+        "subject": "Contents;Oneida Mine",
         "location": "Beaverhead",
         "latitude": "45.60384",
         "longitude": "-112.9378",
@@ -5083,7 +5223,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Oro Fino",
+        "subject": "Contents;Oro Fino",
         "location": "Beaverhead",
         "latitude": "45.3925",
         "longitude": "-112.8353",
@@ -5103,7 +5243,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Oro Placer",
+        "subject": "Contents;Oro Placer",
         "location": "Beaverhead",
         "latitude": "45.25",
         "longitude": "-112.8594",
@@ -5119,11 +5259,11 @@
         "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/oro_placer001.html"
     },
     { 
-        "title": "Orvana Reconnaissance Folder Contents",
+        "title": "Orvana-General Folder Contents",
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Orvana Reconnaissance",
+        "subject": "Contents;Orvana-General",
         "location": "Beaverhead",
         
         
@@ -5134,16 +5274,16 @@
         "language": "eng",
         
         
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/orvana_reconnaissance_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Orvana_Reconnaissance.jpg",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/orvana_reconnaissance001.html"
+        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/orvana-general_th.jpg",
+        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Orvana-General.jpg",
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/orvana-general001.html"
     },
     { 
-        "title": "P&R Folder Contents",
+        "title": "P & R Folder Contents",
         
         
         "description": "Folder Contents",
-        "subject": "Contens;P&R",
+        "subject": "Contents;P & R",
         "location": "Beaverhead",
         "latitude": "45.3069",
         "longitude": "-113.0678",
@@ -5159,11 +5299,11 @@
         "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/p_r001.html"
     },
     { 
-        "title": "Park Bald Mountain Folder Contents",
+        "title": "Park Folder Contents",
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Park Bald Mountain",
+        "subject": "Contents;Park",
         "location": "Beaverhead",
         "latitude": "45.3378",
         "longitude": "-112.9028",
@@ -5179,11 +5319,11 @@
         "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/park_bald_mountain001.html"
     },
     { 
-        "title": "Park Elkhorn Folder Contents",
+        "title": "Park Folder Contents",
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Park Elkhorn",
+        "subject": "Contents;Park",
         "location": "Beaverhead",
         "latitude": "45.4836",
         "longitude": "-113.0492",
@@ -5203,7 +5343,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Payday",
+        "subject": "Contents;Payday",
         "location": "Beaverhead",
         "latitude": "45.3194",
         "longitude": "-112.8744",
@@ -5223,7 +5363,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Peat Lease",
+        "subject": "Contents;Peat Lease",
         "location": "Beaverhead",
         "latitude": "45.4697",
         "longitude": "-113.6064",
@@ -5243,7 +5383,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Peterson Deposit",
+        "subject": "Contents;Peterson Deposit",
         "location": "Beaverhead",
         "latitude": "44.5617",
         "longitude": "-112.645",
@@ -5263,7 +5403,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Pine Tree",
+        "subject": "Contents;Pine Tree",
         "location": "Beaverhead",
         "latitude": "45.3272",
         "longitude": "-112.9108",
@@ -5283,7 +5423,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Pioneer",
+        "subject": "Contents;Pioneer",
         "location": "Beaverhead",
         "latitude": "45.2278",
         "longitude": "-113.5892",
@@ -5303,7 +5443,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Pioneer Placer",
+        "subject": "Contents;Pioneer Placer",
         "location": "Beaverhead",
         "latitude": "45.1676",
         "longitude": "-112.9768",
@@ -5323,7 +5463,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Placer Creek",
+        "subject": "Contents;Placer Creek",
         "location": "Beaverhead",
         "latitude": "45.6889",
         "longitude": "-113.6891",
@@ -5343,7 +5483,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Polaris",
+        "subject": "Contents;Polaris",
         "location": "Beaverhead",
         "latitude": "45.366363",
         "longitude": "-113.083924",
@@ -5363,7 +5503,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Pomeroy",
+        "subject": "Contents;Pomeroy",
         "location": "Beaverhead",
         "latitude": "45.1989",
         "longitude": "-112.9664",
@@ -5383,7 +5523,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Pride Of The West",
+        "subject": "Contents;Pride Of The West",
         "location": "Beaverhead",
         "latitude": "45.55889",
         "longitude": "-112.9481",
@@ -5403,7 +5543,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Priscilla",
+        "subject": "Contents;Priscilla",
         "location": "Beaverhead",
         "latitude": "45.1572",
         "longitude": "-112.9839",
@@ -5419,31 +5559,11 @@
         "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/priscilla001.html"
     },
     { 
-        "title": "The Story of Ajax",
-        "creator": "Alva Josiah Noyes",
-        "date": "3/28/1905",
-        "description": "The Story of Ajax",
-        "subject": "Publications; Ajax",
-        "location": "Beaverhead",
-        "latitude": "45.52333",
-        "longitude": "-113.72389",
-        
-        
-        "type": "Image;StillImage",
-        "format": "application/pdf",
-        "language": "eng",
-        
-        
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/publications_ajax_mine_noyes_alva_1914_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Publications_Ajax_Mine_Noyes_Alva_1914.pdf",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax015.html"
-    },
-    { 
         "title": "Puzzler Folder Contents",
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Puzzler",
+        "subject": "Contents;Puzzler",
         "location": "Beaverhead",
         
         
@@ -5463,7 +5583,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Quartz Hill",
+        "subject": "Contents;Quartz Hill",
         "location": "Beaverhead",
         "latitude": "45.715",
         "longitude": "-112.8992",
@@ -5483,7 +5603,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Queen Mab",
+        "subject": "Contents;Queen Mab",
         "location": "Beaverhead",
         
         
@@ -5503,7 +5623,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Queen Of The Hills",
+        "subject": "Contents;Queen Of The Hills",
         "location": "Beaverhead",
         "latitude": "45.6719",
         "longitude": "-112.9539",
@@ -5523,7 +5643,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Ram Lode",
+        "subject": "Contents;Ram Lode",
         "location": "Beaverhead",
         "latitude": "45.48599",
         "longitude": "-113.0705",
@@ -5543,7 +5663,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Randall",
+        "subject": "Contents;Randall",
         "location": "Beaverhead",
         "latitude": "45.1828",
         "longitude": "-112.9567",
@@ -5563,7 +5683,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Red Sky",
+        "subject": "Contents;Red Sky",
         "location": "Beaverhead",
         "latitude": "45.478164",
         "longitude": "-113.053296",
@@ -5583,7 +5703,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Red Steer Prospect",
+        "subject": "Contents;Red Steer Prospect",
         "location": "Beaverhead",
         "latitude": "45.8221",
         "longitude": "-113.14075",
@@ -5599,11 +5719,11 @@
         "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/red_steer_prospect001.html"
     },
     { 
-        "title": "Red Top No 2 Folder Contents",
+        "title": "Red Top No. 2 Folder Contents",
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Red Top No 2",
+        "subject": "Contents;Red Top No. 2",
         "location": "Beaverhead",
         "latitude": "45.486185",
         "longitude": "-113.039845",
@@ -5616,14 +5736,14 @@
         
         "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/red_top_no_2_th.jpg",
         "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Red_Top_No_2.jpg",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/red_top_no_2.html"
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/red_top_no2001.html"
     },
     { 
         "title": "Reliance Folder Contents",
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Reliance",
+        "subject": "Contents;Reliance",
         "location": "Beaverhead",
         "latitude": "45.313",
         "longitude": "-112.8746",
@@ -5643,7 +5763,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Rena",
+        "subject": "Contents;Rena",
         "location": "Beaverhead",
         "latitude": "45.3139",
         "longitude": "-112.8819",
@@ -5659,131 +5779,11 @@
         "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/rena001.html"
     },
     { 
-        "title": "Ajax Mine General Informaiton",
-        
-        
-        "description": "Ajax mine general informaiton",
-        "subject": "Report; Ajax Mine",
-        "location": "Beaverhead",
-        "latitude": "45.52333",
-        "longitude": "-113.72389",
-        
-        
-        "type": "Image;StillImage",
-        "format": "application/pdf",
-        "language": "eng",
-        
-        
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/reports_ajax_mine_bulletin_85_mbmg_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Reports_Ajax_Mine_Bulletin_85_MBMG.pdf",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax016.html"
-    },
-    { 
-        "title": "Ajax Location Information and Summary",
-        
-        
-        "description": "Ajax Location Information and Summary",
-        "subject": "Report; Ajax Mine",
-        "location": "Beaverhead",
-        "latitude": "45.52333",
-        "longitude": "-113.72389",
-        
-        
-        "type": "Image;StillImage",
-        "format": "application/pdf",
-        "language": "eng",
-        
-        
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/reports_ajax_mine_location_information_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Reports_Ajax_Mine_Location_Information.pdf",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax017.html"
-    },
-    { 
-        "title": "Ajax Mine General Information",
-        
-        
-        "description": "Ajax mine general information",
-        "subject": "Report; Ajax Mine",
-        "location": "Beaverhead",
-        "latitude": "45.52333",
-        "longitude": "-113.72389",
-        
-        
-        "type": "Image;StillImage",
-        "format": "application/pdf",
-        "language": "eng",
-        
-        
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/reports_ajax_mine_mine_summaries_and_descriptions_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Reports_Ajax_Mine_Mine_Summaries_and_Descriptions.pdf",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax018.html"
-    },
-    { 
-        "title": "Report on the Ajax Group",
-        "creator": "Fred Greene",
-        
-        "description": "Report on the Ajax Group",
-        "subject": "Report; Ajax Mine",
-        "location": "Beaverhead",
-        "latitude": "45.52333",
-        "longitude": "-113.72389",
-        
-        
-        "type": "Image;StillImage",
-        "format": "application/pdf",
-        "language": "eng",
-        
-        
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/reports_ajax_mine_mine_summaries_greene_fred_03_1904_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Reports_Ajax_Mine_Mine_Summaries_Greene_Fred_03_1904.pdf",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax019.html"
-    },
-    { 
-        "title": "Mineral Resources of the West Big Hole Study Area, Beaverhead County, Montana",
-        "creator": "David A. Lipton; Martin D. Conyac; Spencer L. Willettt",
-        "date": "1988",
-        "description": "Mineral Resources of the West Big Hole Study Area, Beaverhead County, Montana",
-        "subject": "Report; Ajax Mine",
-        "location": "Beaverhead",
-        "latitude": "45.52333",
-        "longitude": "-113.72389",
-        
-        
-        "type": "Image;StillImage",
-        "format": "application/pdf",
-        "language": "eng",
-        
-        
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/reports_ajax_mine_open_file_report_usbom_1988_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Reports_Ajax_Mine_Open_File_Report_USBOM_1988.pdf",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax020.html"
-    },
-    { 
-        "title": "USBOM Ajax Location Information",
-        
-        
-        "description": "USBOM Ajax Location Information",
-        "subject": "Report; Ajax Mine",
-        "location": "Beaverhead",
-        "latitude": "45.52333",
-        "longitude": "-113.72389",
-        
-        
-        "type": "Image;StillImage",
-        "format": "application/pdf",
-        "language": "eng",
-        
-        
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/reports_ajax_mine_usbom_location_information_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Reports_Ajax_Mine_USBOM_Location_Information.pdf",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ajax021.html"
-    },
-    { 
         "title": "Rosalind Folder Contents",
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Rosalind",
+        "subject": "Contents;Rosalind",
         "location": "Beaverhead",
         "latitude": "45.7115",
         "longitude": "-112.9361",
@@ -5803,7 +5803,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Rosebud",
+        "subject": "Contents;Rosebud",
         "location": "Beaverhead",
         
         
@@ -5823,7 +5823,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Rosemont",
+        "subject": "Contents;Rosemont",
         "location": "Beaverhead",
         "latitude": "45.3192",
         "longitude": "-112.8503",
@@ -5843,7 +5843,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Royal",
+        "subject": "Contents;Royal",
         "location": "Beaverhead",
         "latitude": "44.9944",
         "longitude": "-113.3308",
@@ -5863,7 +5863,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Ruby Creek Placer",
+        "subject": "Contents;Ruby Creek Placer",
         "location": "Beaverhead",
         "latitude": "45.5408",
         "longitude": "113.73",
@@ -5883,7 +5883,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Ruby Mine",
+        "subject": "Contents;Ruby Mine",
         "location": "Beaverhead",
         "latitude": "44.55667",
         "longitude": "-111.66667",
@@ -5903,7 +5903,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Ruby Quartz Lode",
+        "subject": "Contents;Ruby Quartz Lode",
         "location": "Beaverhead",
         "latitude": "45.4724",
         "longitude": "-113.0486",
@@ -5923,7 +5923,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;San Francisco",
+        "subject": "Contents;San Francisco",
         "location": "Beaverhead",
         "latitude": "45.4578",
         "longitude": "-113.0486",
@@ -5943,7 +5943,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Sata Maira Rainbow",
+        "subject": "Contents;Sata Maira Rainbow",
         "location": "Beaverhead",
         "latitude": "45.3692",
         "longitude": "-112.8242",
@@ -5963,7 +5963,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Shafer Prospect",
+        "subject": "Contents;Shafer Prospect",
         "location": "Beaverhead",
         "latitude": "45.2386719",
         "longitude": "-112.9980663",
@@ -5983,7 +5983,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Sheep Mountain",
+        "subject": "Contents;Sheep Mountain",
         "location": "Beaverhead",
         "latitude": "45.6772",
         "longitude": "-112.9694",
@@ -6003,7 +6003,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Silver Belle",
+        "subject": "Contents;Silver Belle",
         "location": "Beaverhead",
         "latitude": "45.1997",
         "longitude": "112.9667",
@@ -6023,7 +6023,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Silver Dollar",
+        "subject": "Contents;Silver Dollar",
         "location": "Beaverhead",
         
         
@@ -6043,7 +6043,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Silver Glow",
+        "subject": "Contents;Silver Glow",
         "location": "Beaverhead",
         
         
@@ -6063,27 +6063,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Silver King T3S R11W S11",
-        "location": "Beaverhead",
-        "latitude": "45.5867",
-        "longitude": "-112.9258",
-        
-        
-        "type": "Image;StillImage",
-        "format": "image/jpeg",
-        "language": "eng",
-        
-        
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/silver_king_t3s_r11w_s11_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Silver_King_T3S_R11W_S11.jpg",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/silver_king_t3s_r11w_s11001.html"
-    },
-    { 
-        "title": "Silver King T5S R12W S28 Folder Contents",
-        
-        
-        "description": "Folder Contents",
-        "subject": "Contens;Silver King T5S R12W S28",
+        "subject": "Contents;Silver King",
         "location": "Beaverhead",
         "latitude": "45.3636",
         "longitude": "-113.0844",
@@ -6094,16 +6074,36 @@
         "language": "eng",
         
         
+        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/silver_king_t3s_r11w_s11_th.jpg",
+        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Silver_King_T3S_R11W_S11.jpg",
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/silver_king_T3S_R11W_S11001.html"
+    },
+    { 
+        "title": "Silver King T5S R12W S28 Folder Contents",
+        
+        
+        "description": "Folder Contents",
+        "subject": "Contents;Silver King",
+        "location": "Beaverhead",
+        "latitude": "45.5867",
+        "longitude": "-112.9258",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        
+        
         "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/silver_king_t5s_r12w_s28_th.jpg",
         "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Silver_King_T5S_R12W_S28.jpg",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/silver_king_t5s_r12w_s28001.html"
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/silver_king_T5S_R12W_S28001.html"
     },
     { 
         "title": "Silver Quartz Folder Contents",
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Silver Quartz",
+        "subject": "Contents;Silver Quartz",
         "location": "Beaverhead",
         "latitude": "45.55889",
         "longitude": "-112.9481",
@@ -6123,7 +6123,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Silver Queen",
+        "subject": "Contents;Silver Queen",
         "location": "Beaverhead",
         "latitude": "44.9656",
         "longitude": "-112.4919",
@@ -6143,7 +6143,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Silver Ridge Group",
+        "subject": "Contents;Silver Ridge Group",
         "location": "Beaverhead",
         "latitude": "45.3686",
         "longitude": "-113.675",
@@ -6163,7 +6163,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Silver Star",
+        "subject": "Contents;Silver Star",
         "location": "Beaverhead",
         "latitude": "45.1764",
         "longitude": "-112.9514",
@@ -6183,7 +6183,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Sir Walter Scott",
+        "subject": "Contents;Sir Walter Scott",
         "location": "Beaverhead",
         "latitude": "45.28307",
         "longitude": "-112.876395",
@@ -6203,7 +6203,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Sleeping Princess Group",
+        "subject": "Contents;Sleeping Princess Group",
         "location": "Beaverhead",
         "latitude": "45.1519",
         "longitude": "-112.9767",
@@ -6223,7 +6223,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Smith Dillon Talc",
+        "subject": "Contents;Smith Dillon Talc",
         "location": "Beaverhead",
         "latitude": "45.12",
         "longitude": "-112.5519",
@@ -6243,7 +6243,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Southside Placer",
+        "subject": "Contents;Southside Placer",
         "location": "Beaverhead",
         "latitude": "45.15195",
         "longitude": "-112.97738",
@@ -6263,7 +6263,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Spanish",
+        "subject": "Contents;Spanish",
         "location": "Beaverhead",
         "latitude": "45.2953",
         "longitude": "-112.8914",
@@ -6283,7 +6283,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Springfield",
+        "subject": "Contents;Springfield",
         "location": "Beaverhead",
         "latitude": "45.15699",
         "longitude": "-112.9862",
@@ -6299,11 +6299,11 @@
         "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/springfield001.html"
     },
     { 
-        "title": "Star 1 2 3 Folder Contents",
+        "title": "Star 123 Folder Contents",
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Star 1 2 3",
+        "subject": "Contents;Star 123",
         "location": "Beaverhead",
         "latitude": "45.7894",
         "longitude": "-113.0272",
@@ -6316,14 +6316,14 @@
         
         "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/star_1_2_3_th.jpg",
         "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Star_1_2_3.jpg",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/star_1_2_3001.html"
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/star_123001.html"
     },
     { 
-        "title": "Starlight T10S R14W S5 Folder Contents",
+        "title": "Starlight T6S R10W S22 Folder Contents",
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Starlight T10S R14W S5",
+        "subject": "Contents;Starlight",
         "location": "Beaverhead",
         "latitude": "44.9961",
         "longitude": "-113.3292",
@@ -6334,16 +6334,16 @@
         "language": "eng",
         
         
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/starlight_t10s_r14w_s5_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Starlight_T10S_R14W_S5.jpg",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/starlight_t10s_r14w_s5001.html"
+        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/starlight_t6s_r10w_s22_th.jpg",
+        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Starlight_T6S_R10W_S22.jpg",
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/starlight_T6S_R10W_S22001.html"
     },
     { 
-        "title": "Starlight T6S R10W S22 Folder Contents",
+        "title": "Starlight T6S R11W S24 Folder Contents",
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Starlight T6S R10W S22",
+        "subject": "Contents;Starlight",
         "location": "Beaverhead",
         "latitude": "45.3042",
         "longitude": "-112.8239",
@@ -6354,16 +6354,16 @@
         "language": "eng",
         
         
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/starlight_t6s_r10w_s22_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Starlight_T6S_R10W_S22.jpg",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/starlight_t6s_r10w_s22001.html"
+        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/starlight_t6s_r11w_s24_th.jpg",
+        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Starlight_T6S_R11W_S24.jpg",
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/starlight_T6S_R11W_S24001.html"
     },
     { 
-        "title": "Starlight T6S R11W S24 Folder Contents",
+        "title": "Starlight T10S R14W S5 Folder Contents",
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Starlight T6S R11W S24",
+        "subject": "Contents;Starlight",
         "location": "Beaverhead",
         "latitude": "45.2925",
         "longitude": "-112.8847",
@@ -6374,16 +6374,16 @@
         "language": "eng",
         
         
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/starlight_t6s_r11w_s24_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Starlight_T6S_R11W_S24.jpg",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/starlight_t6s_r11w_s24001.html"
+        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/starlight_t10s_r14w_s5_th.jpg",
+        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Starlight_T10S_R14W_S5.jpg",
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/starlight_T10S_R14W_S5001.html"
     },
     { 
         "title": "Stone Creek Folder Contents",
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Stone Creek",
+        "subject": "Contents;Stone Creek",
         "location": "Beaverhead",
         "latitude": "45.69263",
         "longitude": "-113.19584",
@@ -6403,7 +6403,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Storm",
+        "subject": "Contents;Storm",
         "location": "Beaverhead",
         "latitude": "45.4828",
         "longitude": "-113.0583",
@@ -6423,7 +6423,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Sunshine",
+        "subject": "Contents;Sunshine",
         "location": "Beaverhead",
         "latitude": "45.0008",
         "longitude": "-113.3403",
@@ -6439,31 +6439,11 @@
         "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/sunshine001.html"
     },
     { 
-        "title": "Sweeney T13S R12W S1 Folder Contents",
+        "title": "Sweeney  T7S R12W S22 Folder Contents",
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Sweeney T13S R12W S1",
-        "location": "Beaverhead",
-        "latitude": "44.7269",
-        "longitude": "-113.0106",
-        
-        
-        "type": "Image;StillImage",
-        "format": "image/jpeg",
-        "language": "eng",
-        
-        
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/sweeney_t13s_r12w_s1_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Sweeney_T13S_R12W_S1.jpg",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/sweeney_t13s_r12w_s1001.html"
-    },
-    { 
-        "title": "Sweeney T7S R12W S22 Folder Contents",
-        
-        
-        "description": "Folder Contents",
-        "subject": "Contens;Sweeney T7S R12W S22",
+        "subject": "Contents;Sweeney",
         "location": "Beaverhead",
         "latitude": "45.2194",
         "longitude": "-113.0689",
@@ -6476,14 +6456,34 @@
         
         "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/sweeney_t7s_r12w_s22_th.jpg",
         "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Sweeney_T7S_R12W_S22.jpg",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/sweeney_t7s_r12w_s22001.html"
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/sweeney_T7S_R12W_S22001.html"
+    },
+    { 
+        "title": "Sweeney  T13S R12W S1 Folder Contents",
+        
+        
+        "description": "Folder Contents",
+        "subject": "Contents;Sweeney Mine",
+        "location": "Beaverhead",
+        "latitude": "44.7269",
+        "longitude": "-113.0106",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "eng",
+        
+        
+        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/sweeney_t13s_r12w_s1_th.jpg",
+        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Sweeney_T13S_R12W_S1.jpg",
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/sweeney_T13S_R12W_S1001.html"
     },
     { 
         "title": "Sylvia Folder Contents",
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Sylvia",
+        "subject": "Contents;Sylvia",
         "location": "Beaverhead",
         "latitude": "45.3047",
         "longitude": "-112.8908",
@@ -6503,7 +6503,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Telstar",
+        "subject": "Contents;Telstar",
         "location": "Beaverhead",
         "latitude": "45.45685",
         "longitude": "-113.04994",
@@ -6523,7 +6523,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Tender",
+        "subject": "Contents;Tender",
         "location": "Beaverhead",
         "latitude": "45.2969",
         "longitude": "-112.8911",
@@ -6543,7 +6543,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Thomas Paine",
+        "subject": "Contents;Thomas Paine",
         "location": "Beaverhead",
         "latitude": "45.4724",
         "longitude": "-113.0692",
@@ -6563,7 +6563,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Thunderbird",
+        "subject": "Contents;Thunderbird",
         "location": "Beaverhead",
         "latitude": "45.48459",
         "longitude": "-113.0451",
@@ -6576,14 +6576,14 @@
         
         "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/thunderbird_th.jpg",
         "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Thunderbird.jpg",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/thunderbird_001.html"
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/thunderbird001.html"
     },
     { 
         "title": "Tiger Folder Contents",
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Tiger",
+        "subject": "Contents;Tiger",
         "location": "Beaverhead",
         "latitude": "45.4708",
         "longitude": "-113.0483",
@@ -6603,7 +6603,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Trapper",
+        "subject": "Contents;Trapper",
         "location": "Beaverhead",
         "latitude": "45.5986",
         "longitude": "-112.9139",
@@ -6623,7 +6623,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Trapper Creek",
+        "subject": "Contents;Trapper Creek",
         "location": "Beaverhead",
         "latitude": "45.6399",
         "longitude": "-112.75149",
@@ -6639,14 +6639,14 @@
         "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/trapper_creek001.html"
     },
     { 
-        "title": "Tri State Minerals Folder Contents",
+        "title": "Tri-State Minerals Folder Contents",
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Tri State Minerals",
+        "subject": "Contents;Tri-State Minerals",
         "location": "Beaverhead",
-        "latitude": "45.602727",
-        "longitude": "-112.928933",
+        
+        
         
         
         "type": "Image;StillImage",
@@ -6663,7 +6663,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;True Blue Millsite",
+        "subject": "Contents;True Blue Millsite",
         "location": "Beaverhead",
         "latitude": "45.602727",
         "longitude": "-112.928933",
@@ -6683,7 +6683,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;True Dog Group",
+        "subject": "Contents;True Dog Group",
         "location": "Beaverhead",
         "latitude": "44.77408",
         "longitude": "-111.83244",
@@ -6703,7 +6703,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;True Fissure",
+        "subject": "Contents;True Fissure",
         "location": "Beaverhead",
         "latitude": "45.6047",
         "longitude": "-112.9383",
@@ -6719,11 +6719,11 @@
         "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/true_fissure001.html"
     },
     { 
-        "title": "Tungsten General Folder Contents",
+        "title": "Tungsten - General Folder Contents",
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Tungsten General",
+        "subject": "Contents;Tungsten - General",
         "location": "Beaverhead",
         
         
@@ -6736,14 +6736,14 @@
         
         "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/tungsten_general_th.jpg",
         "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Tungsten_General.jpg",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/tungsten_general001.html"
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/tungsten_-_general001.html"
     },
     { 
         "title": "Tuscarora Folder Contents",
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Tuscarora",
+        "subject": "Contents;Tuscarora",
         "location": "Beaverhead",
         "latitude": "45.3128",
         "longitude": "-112.8736",
@@ -6763,7 +6763,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Tuxedo",
+        "subject": "Contents;Tuxedo",
         "location": "Beaverhead",
         "latitude": "45.7114",
         "longitude": "-112.9344",
@@ -6783,7 +6783,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Ucon",
+        "subject": "Contents;Ucon",
         "location": "Beaverhead",
         "latitude": "45.47917",
         "longitude": "-113.06069",
@@ -6799,11 +6799,11 @@
         "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/ucon001.html"
     },
     { 
-        "title": "Unnamed Manganese Folder Contents",
+        "title": "Unnamed Manganese Property Folder Contents",
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Unnamed Manganese",
+        "subject": "Contents;Unnamed Manganese Property",
         "location": "Beaverhead",
         "latitude": "45.12332",
         "longitude": "-112.54883",
@@ -6816,14 +6816,14 @@
         
         "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/unnamed_manganese_th.jpg",
         "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Unnamed_Manganese.jpg",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/unnamed_manganese001.html"
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/unnamed_manganese_property001.html"
     },
     { 
-        "title": "Up Two Folder Contents",
+        "title": "Up-Two Folder Contents",
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Up Two",
+        "subject": "Contents;Up-Two",
         "location": "Beaverhead",
         "latitude": "45.58705",
         "longitude": "-113.23516",
@@ -6836,14 +6836,14 @@
         
         "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/up_two_th.jpg",
         "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Up_Two.jpg",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/up_two001.html"
+        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/up-two001.html"
     },
     { 
         "title": "Vanguard Group Folder Contents",
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Vanguard Group",
+        "subject": "Contents;Vanguard Group",
         "location": "Beaverhead",
         "latitude": "45.3406",
         "longitude": "-113.1178",
@@ -6863,7 +6863,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Vilet",
+        "subject": "Contents;Vilet",
         "location": "Beaverhead",
         "latitude": "46.0872",
         "longitude": "-113.07123",
@@ -6883,7 +6883,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Virginia",
+        "subject": "Contents;Virginia",
         "location": "Beaverhead",
         "latitude": "45.3119",
         "longitude": "112.9156",
@@ -6903,7 +6903,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Virginia Gulch",
+        "subject": "Contents;Virginia Gulch",
         "location": "Beaverhead",
         "latitude": "45.315",
         "longitude": "112.9233",
@@ -6923,7 +6923,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Volcanic Gold",
+        "subject": "Contents;Volcanic Gold",
         "location": "Beaverhead",
         "latitude": "45.1952",
         "longitude": "-112.93711",
@@ -6943,7 +6943,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Wadams",
+        "subject": "Contents;Wadams",
         "location": "Beaverhead",
         "latitude": "45.1517",
         "longitude": "-112.9883",
@@ -6963,7 +6963,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Wallace",
+        "subject": "Contents;Wallace",
         "location": "Beaverhead",
         "latitude": "45.1536",
         "longitude": "-112.9878",
@@ -6983,7 +6983,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Wapita",
+        "subject": "Contents;Wapita",
         "location": "Beaverhead",
         "latitude": "45.2893",
         "longitude": "-112.93399",
@@ -7003,7 +7003,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Washington",
+        "subject": "Contents;Washington",
         "location": "Beaverhead",
         "latitude": "45.48593",
         "longitude": "-113.04969",
@@ -7023,7 +7023,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Washington Mine",
+        "subject": "Contents;Washington Mine",
         "location": "Beaverhead",
         "latitude": "45.1569",
         "longitude": "112.9767",
@@ -7043,7 +7043,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;West Ermont",
+        "subject": "Contents;West Ermont",
         "location": "Beaverhead",
         "latitude": "45.2722",
         "longitude": "-112.91196",
@@ -7063,7 +7063,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Wheal Rose",
+        "subject": "Contents;Wheal Rose",
         "location": "Beaverhead",
         "latitude": "45.195",
         "longitude": "-112.9364",
@@ -7083,7 +7083,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;White Lime",
+        "subject": "Contents;White Lime",
         "location": "Beaverhead",
         "latitude": "45.3133",
         "longitude": "-112.8506",
@@ -7103,7 +7103,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;White Owl",
+        "subject": "Contents;White Owl",
         "location": "Beaverhead",
         "latitude": "45.486",
         "longitude": "-113.0705",
@@ -7123,7 +7123,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;White Seal",
+        "subject": "Contents;White Seal",
         "location": "Beaverhead",
         "latitude": "45.49007",
         "longitude": "-113.05881",
@@ -7143,7 +7143,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Wild Bat",
+        "subject": "Contents;Wild Bat",
         "location": "Beaverhead",
         "latitude": "45.3131",
         "longitude": "-113.0394",
@@ -7163,7 +7163,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Wise River",
+        "subject": "Contents;Wise River",
         "location": "Beaverhead",
         "latitude": "45.4878",
         "longitude": "-113.04504",
@@ -7183,7 +7183,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Wise River Placer",
+        "subject": "Contents;Wise River Placer",
         "location": "Beaverhead",
         "latitude": "45.6083",
         "longitude": "-113.0842",
@@ -7203,7 +7203,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Wooley",
+        "subject": "Contents;Wooley",
         "location": "Beaverhead",
         "latitude": "45.3122",
         "longitude": "-112.8728",
@@ -7223,7 +7223,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;WRA",
+        "subject": "Contents;Wra",
         "location": "Beaverhead",
         "latitude": "45.47137",
         "longitude": "-113.04979",
@@ -7243,7 +7243,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Yellow Band",
+        "subject": "Contents;Yellow Band",
         "location": "Beaverhead",
         "latitude": "45.3347",
         "longitude": "-112.9056",
@@ -7263,7 +7263,7 @@
         
         
         "description": "Folder Contents",
-        "subject": "Contens;Yellow Bird",
+        "subject": "Contents;Yellow Bird",
         "location": "Beaverhead",
         "latitude": "45.2719",
         "longitude": "-112.9106",
@@ -7277,26 +7277,6 @@
         "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/yellow_bird_th.jpg",
         "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/Yellow_Bird.jpg",
         "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/yellow_bird001.html"
-    },
-    { 
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        "object_thumb": "/Information/Collections/Mine-Files/Beaverhead/objects/thumbs/_th.jpg",
-        "object_download": "/Information/Collections/Mine-Files/Beaverhead/objects/",
-        "reference_url": "/Information/Collections/Mine-Files/Beaverhead/items/.html"
     }
     
 ] }

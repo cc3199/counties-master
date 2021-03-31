@@ -24,6 +24,447 @@
         
         <oai:record> 
             <oai:header>
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax001</oai:identifier> 
+                <oai:datestamp>2021-03-31</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Geology of Beaverhead County and Ajax Mine</dc:title>
+                    <dc:creator>Johon M. Conrow</dc:creator>
+                    <dc:date>12/9/1941</dc:date><dc:description>Geology of Beaverhead County and Ajax Mine</dc:description>
+                    <dc:identifier>ajax001</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax001.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax002</oai:identifier> 
+                <oai:datestamp>2021-03-31</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Mountain Range and Location Information</dc:title>
+                    <dc:creator>Ralph H. King</dc:creator>
+                    <dc:date>10/10/1969</dc:date><dc:description>Mountain rainge and location information</dc:description>
+                    <dc:identifier>ajax002</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax002.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax003</oai:identifier> 
+                <oai:datestamp>2021-03-31</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Road Construction Near Ajax</dc:title>
+                    <dc:creator>H.G. McClernan</dc:creator>
+                    <dc:date>9/15/1969</dc:date><dc:description>Road construction near Ajax</dc:description>
+                    <dc:identifier>ajax003</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax003.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax004</oai:identifier> 
+                <oai:datestamp>2021-03-31</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Geology of Beaverhead County and Ajax Mine</dc:title>
+                    <dc:creator>J.H. Jensen</dc:creator>
+                    <dc:date>1/20/1936</dc:date><dc:description>Geology of Beaverhead County and Ajax Mine</dc:description>
+                    <dc:identifier>ajax004</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax004.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax005</oai:identifier> 
+                <oai:datestamp>2021-03-31</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Ajax Mine Information for Library</dc:title>
+                    <dc:creator>Mrs. George VanDelinder</dc:creator>
+                    <dc:date>10/8/1969</dc:date><dc:description>Ajax mine information for library</dc:description>
+                    <dc:identifier>ajax005</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax005.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax006</oai:identifier> 
+                <oai:datestamp>2021-03-31</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Ajax Status Cards</dc:title>
+                    <dc:creator>Clay Jenkins</dc:creator>
+                    <dc:date>1972</dc:date><dc:description>Ajax Status cards</dc:description>
+                    <dc:identifier>ajax006</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax006.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax007</oai:identifier> 
+                <oai:datestamp>2021-03-31</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Ajax Status Cards</dc:title>
+                    <dc:creator>Clay Jenkins</dc:creator>
+                    <dc:date>1976</dc:date><dc:description>Ajax Status cards</dc:description>
+                    <dc:identifier>ajax007</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax007.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax008</oai:identifier> 
+                <oai:datestamp>2021-03-31</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Ajax Status Cards</dc:title>
+                    <dc:creator>Clay Jenkins</dc:creator>
+                    <dc:date>1979</dc:date><dc:description>Ajax Status cards</dc:description>
+                    <dc:identifier>ajax008</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax008.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax009</oai:identifier> 
+                <oai:datestamp>2021-03-31</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Ajax Status Cards</dc:title>
+                    <dc:creator>Clay Jenkins</dc:creator>
+                    <dc:date>1984</dc:date><dc:description>Ajax Status cards</dc:description>
+                    <dc:identifier>ajax009</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax009.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax010</oai:identifier> 
+                <oai:datestamp>2021-03-31</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Ajax Status Cards</dc:title>
+                    <dc:creator>Clay Jenkins</dc:creator>
+                    <dc:date>1986</dc:date><dc:description>Ajax Status cards</dc:description>
+                    <dc:identifier>ajax010</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax010.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax011</oai:identifier> 
+                <oai:datestamp>2021-03-31</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Topographic Map Including Ajax Mine</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description>Topographic map including Ajax Mine</dc:description>
+                    <dc:identifier>ajax011</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax011.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax012</oai:identifier> 
+                <oai:datestamp>2021-03-31</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Family Revives Old Ajax Mine</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>8/9/1981</dc:date><dc:description>Family Revives Old Ajax Mine</dc:description>
+                    <dc:identifier>ajax012</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax012.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax013</oai:identifier> 
+                <oai:datestamp>2021-03-31</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Beaverhead Forest Hydrologist Jeff Reiner</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>8/9/1981</dc:date><dc:description>Beaverhead forest hydrologist Jeff Reiner</dc:description>
+                    <dc:identifier>ajax013</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax013.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax014</oai:identifier> 
+                <oai:datestamp>2021-03-31</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Beaverhead Talc Mine</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date>4/3/1986</dc:date><dc:description>Beaverhead Talc Mine</dc:description>
+                    <dc:identifier>ajax014</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax014.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax015</oai:identifier> 
+                <oai:datestamp>2021-03-31</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>The Story of Ajax</dc:title>
+                    <dc:creator>Alva Josiah Noyes</dc:creator>
+                    <dc:date>3/28/1905</dc:date><dc:description>The Story of Ajax</dc:description>
+                    <dc:identifier>ajax015</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax015.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax016</oai:identifier> 
+                <oai:datestamp>2021-03-31</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Ajax Mine General Informaiton</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description>Ajax mine general informaiton</dc:description>
+                    <dc:identifier>ajax016</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax016.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax017</oai:identifier> 
+                <oai:datestamp>2021-03-31</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Ajax Location Information and Summary</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description>Ajax Location Information and Summary</dc:description>
+                    <dc:identifier>ajax017</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax017.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax018</oai:identifier> 
+                <oai:datestamp>2021-03-31</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Ajax Mine General Information</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description>Ajax mine general information</dc:description>
+                    <dc:identifier>ajax018</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax018.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax019</oai:identifier> 
+                <oai:datestamp>2021-03-31</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Report on the Ajax Group</dc:title>
+                    <dc:creator>Fred Greene</dc:creator>
+                    <dc:date></dc:date><dc:description>Report on the Ajax Group</dc:description>
+                    <dc:identifier>ajax019</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax019.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax020</oai:identifier> 
+                <oai:datestamp>2021-03-31</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Mineral Resources of the West Big Hole Study Area, Beaverhead County, Montana</dc:title>
+                    <dc:creator>David A. Lipton; Martin D. Conyac; Spencer L. Willettt</dc:creator>
+                    <dc:date>1988</dc:date><dc:description>Mineral Resources of the West Big Hole Study Area, Beaverhead County, Montana</dc:description>
+                    <dc:identifier>ajax020</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax020.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax021</oai:identifier> 
+                <oai:datestamp>2021-03-31</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>USBOM Ajax Location Information</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description>USBOM Ajax Location Information</dc:description>
+                    <dc:identifier>ajax021</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax021.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajack001</oai:identifier> 
                 <oai:datestamp>2021-03-31</oai:datestamp>
             </oai:header>
@@ -45,27 +486,6 @@
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/alexander001</oai:identifier> 
-                <oai:datestamp>2021-03-31</oai:datestamp>
-            </oai:header>
-            <oai:metadata>
-                <oai_dc:dc 
-                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
-                xmlns:dc="http://purl.org/dc/elements/1.1/" 
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
-                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Alexander Folder Contents</dc:title>
-                    <dc:creator></dc:creator>
-                    <dc:date></dc:date><dc:description>Folder Contents</dc:description>
-                    <dc:identifier>alexander001</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/alexander001.html</dc:identifier>
-                </oai_dc:dc>
-            </oai:metadata>
-        </oai:record>
-        
-        <oai:record> 
-            <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/alice001</oai:identifier> 
                 <oai:datestamp>2021-03-31</oai:datestamp>
             </oai:header>
@@ -81,6 +501,27 @@
                     <dc:date></dc:date><dc:description>Folder Contents</dc:description>
                     <dc:identifier>alice001</dc:identifier>
                     <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/alice001.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/alexander001</oai:identifier> 
+                <oai:datestamp>2021-03-31</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Alexander Folder Contents</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description>Folder Contents</dc:description>
+                    <dc:identifier>alexander001</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/alexander001.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
@@ -1389,111 +1830,6 @@
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax001</oai:identifier> 
-                <oai:datestamp>2021-03-31</oai:datestamp>
-            </oai:header>
-            <oai:metadata>
-                <oai_dc:dc 
-                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
-                xmlns:dc="http://purl.org/dc/elements/1.1/" 
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
-                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Geology of Beaverhead County and Ajax Mine</dc:title>
-                    <dc:creator>Johon M. Conrow</dc:creator>
-                    <dc:date>12/9/1941</dc:date><dc:description>Geology of Beaverhead County and Ajax Mine</dc:description>
-                    <dc:identifier>ajax001</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax001.html</dc:identifier>
-                </oai_dc:dc>
-            </oai:metadata>
-        </oai:record>
-        
-        <oai:record> 
-            <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax002</oai:identifier> 
-                <oai:datestamp>2021-03-31</oai:datestamp>
-            </oai:header>
-            <oai:metadata>
-                <oai_dc:dc 
-                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
-                xmlns:dc="http://purl.org/dc/elements/1.1/" 
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
-                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Mountain Range and Location Information</dc:title>
-                    <dc:creator>Ralph H. King</dc:creator>
-                    <dc:date>10/10/1969</dc:date><dc:description>Mountain rainge and location information</dc:description>
-                    <dc:identifier>ajax002</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax002.html</dc:identifier>
-                </oai_dc:dc>
-            </oai:metadata>
-        </oai:record>
-        
-        <oai:record> 
-            <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax003</oai:identifier> 
-                <oai:datestamp>2021-03-31</oai:datestamp>
-            </oai:header>
-            <oai:metadata>
-                <oai_dc:dc 
-                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
-                xmlns:dc="http://purl.org/dc/elements/1.1/" 
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
-                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Road Construction Near Ajax</dc:title>
-                    <dc:creator>H.G. McClernan</dc:creator>
-                    <dc:date>9/15/1969</dc:date><dc:description>Road construction near Ajax</dc:description>
-                    <dc:identifier>ajax003</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax003.html</dc:identifier>
-                </oai_dc:dc>
-            </oai:metadata>
-        </oai:record>
-        
-        <oai:record> 
-            <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax004</oai:identifier> 
-                <oai:datestamp>2021-03-31</oai:datestamp>
-            </oai:header>
-            <oai:metadata>
-                <oai_dc:dc 
-                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
-                xmlns:dc="http://purl.org/dc/elements/1.1/" 
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
-                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Geology of Beaverhead County and Ajax Mine</dc:title>
-                    <dc:creator>J.H. Jensen</dc:creator>
-                    <dc:date>1/20/1936</dc:date><dc:description>Geology of Beaverhead County and Ajax Mine</dc:description>
-                    <dc:identifier>ajax004</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax004.html</dc:identifier>
-                </oai_dc:dc>
-            </oai:metadata>
-        </oai:record>
-        
-        <oai:record> 
-            <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax005</oai:identifier> 
-                <oai:datestamp>2021-03-31</oai:datestamp>
-            </oai:header>
-            <oai:metadata>
-                <oai_dc:dc 
-                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
-                xmlns:dc="http://purl.org/dc/elements/1.1/" 
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
-                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Ajax Mine Information for Library</dc:title>
-                    <dc:creator>Mrs. George VanDelinder</dc:creator>
-                    <dc:date>10/8/1969</dc:date><dc:description>Ajax mine information for library</dc:description>
-                    <dc:identifier>ajax005</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax005.html</dc:identifier>
-                </oai_dc:dc>
-            </oai:metadata>
-        </oai:record>
-        
-        <oai:record> 
-            <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/cottontail_mine001</oai:identifier> 
                 <oai:datestamp>2021-03-31</oai:datestamp>
             </oai:header>
@@ -2286,111 +2622,6 @@
                     <dc:date></dc:date><dc:description>Folder Contents</dc:description>
                     <dc:identifier>florence001</dc:identifier>
                     <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/florence001.html</dc:identifier>
-                </oai_dc:dc>
-            </oai:metadata>
-        </oai:record>
-        
-        <oai:record> 
-            <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax006</oai:identifier> 
-                <oai:datestamp>2021-03-31</oai:datestamp>
-            </oai:header>
-            <oai:metadata>
-                <oai_dc:dc 
-                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
-                xmlns:dc="http://purl.org/dc/elements/1.1/" 
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
-                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Ajax Status Cards</dc:title>
-                    <dc:creator>Clay Jenkins</dc:creator>
-                    <dc:date>1972</dc:date><dc:description>Ajax Status cards</dc:description>
-                    <dc:identifier>ajax006</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax006.html</dc:identifier>
-                </oai_dc:dc>
-            </oai:metadata>
-        </oai:record>
-        
-        <oai:record> 
-            <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax007</oai:identifier> 
-                <oai:datestamp>2021-03-31</oai:datestamp>
-            </oai:header>
-            <oai:metadata>
-                <oai_dc:dc 
-                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
-                xmlns:dc="http://purl.org/dc/elements/1.1/" 
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
-                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Ajax Status Cards</dc:title>
-                    <dc:creator>Clay Jenkins</dc:creator>
-                    <dc:date>1976</dc:date><dc:description>Ajax Status cards</dc:description>
-                    <dc:identifier>ajax007</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax007.html</dc:identifier>
-                </oai_dc:dc>
-            </oai:metadata>
-        </oai:record>
-        
-        <oai:record> 
-            <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax008</oai:identifier> 
-                <oai:datestamp>2021-03-31</oai:datestamp>
-            </oai:header>
-            <oai:metadata>
-                <oai_dc:dc 
-                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
-                xmlns:dc="http://purl.org/dc/elements/1.1/" 
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
-                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Ajax Status Cards</dc:title>
-                    <dc:creator>Clay Jenkins</dc:creator>
-                    <dc:date>1979</dc:date><dc:description>Ajax Status cards</dc:description>
-                    <dc:identifier>ajax008</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax008.html</dc:identifier>
-                </oai_dc:dc>
-            </oai:metadata>
-        </oai:record>
-        
-        <oai:record> 
-            <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax009</oai:identifier> 
-                <oai:datestamp>2021-03-31</oai:datestamp>
-            </oai:header>
-            <oai:metadata>
-                <oai_dc:dc 
-                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
-                xmlns:dc="http://purl.org/dc/elements/1.1/" 
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
-                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Ajax Status Cards</dc:title>
-                    <dc:creator>Clay Jenkins</dc:creator>
-                    <dc:date>1984</dc:date><dc:description>Ajax Status cards</dc:description>
-                    <dc:identifier>ajax009</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax009.html</dc:identifier>
-                </oai_dc:dc>
-            </oai:metadata>
-        </oai:record>
-        
-        <oai:record> 
-            <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax010</oai:identifier> 
-                <oai:datestamp>2021-03-31</oai:datestamp>
-            </oai:header>
-            <oai:metadata>
-                <oai_dc:dc 
-                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
-                xmlns:dc="http://purl.org/dc/elements/1.1/" 
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
-                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Ajax Status Cards</dc:title>
-                    <dc:creator>Clay Jenkins</dc:creator>
-                    <dc:date>1986</dc:date><dc:description>Ajax Status cards</dc:description>
-                    <dc:identifier>ajax010</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax010.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
@@ -4665,27 +4896,6 @@
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax011</oai:identifier> 
-                <oai:datestamp>2021-03-31</oai:datestamp>
-            </oai:header>
-            <oai:metadata>
-                <oai_dc:dc 
-                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
-                xmlns:dc="http://purl.org/dc/elements/1.1/" 
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
-                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Topographic Map Including Ajax Mine</dc:title>
-                    <dc:creator></dc:creator>
-                    <dc:date></dc:date><dc:description>Topographic map including Ajax Mine</dc:description>
-                    <dc:identifier>ajax011</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax011.html</dc:identifier>
-                </oai_dc:dc>
-            </oai:metadata>
-        </oai:record>
-        
-        <oai:record> 
-            <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/mark_twain001</oai:identifier> 
                 <oai:datestamp>2021-03-31</oai:datestamp>
             </oai:header>
@@ -5001,7 +5211,7 @@
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/moose_horn001</oai:identifier> 
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/moosehorn001</oai:identifier> 
                 <oai:datestamp>2021-03-31</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -5011,11 +5221,11 @@
                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
                 xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Moose Horn Folder Contents</dc:title>
+                    <dc:title>Moosehorn Folder Contents</dc:title>
                     <dc:creator></dc:creator>
                     <dc:date></dc:date><dc:description>Folder Contents</dc:description>
-                    <dc:identifier>moose_horn001</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/moose_horn001.html</dc:identifier>
+                    <dc:identifier>moosehorn001</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/moosehorn001.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
@@ -5142,69 +5352,6 @@
                     <dc:date></dc:date><dc:description>Folder Contents</dc:description>
                     <dc:identifier>new_year_1910001</dc:identifier>
                     <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/new_year_1910001.html</dc:identifier>
-                </oai_dc:dc>
-            </oai:metadata>
-        </oai:record>
-        
-        <oai:record> 
-            <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax012</oai:identifier> 
-                <oai:datestamp>2021-03-31</oai:datestamp>
-            </oai:header>
-            <oai:metadata>
-                <oai_dc:dc 
-                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
-                xmlns:dc="http://purl.org/dc/elements/1.1/" 
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
-                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Family Revives Old Ajax Mine</dc:title>
-                    <dc:creator></dc:creator>
-                    <dc:date>8/9/1981</dc:date><dc:description>Family Revives Old Ajax Mine</dc:description>
-                    <dc:identifier>ajax012</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax012.html</dc:identifier>
-                </oai_dc:dc>
-            </oai:metadata>
-        </oai:record>
-        
-        <oai:record> 
-            <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax013</oai:identifier> 
-                <oai:datestamp>2021-03-31</oai:datestamp>
-            </oai:header>
-            <oai:metadata>
-                <oai_dc:dc 
-                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
-                xmlns:dc="http://purl.org/dc/elements/1.1/" 
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
-                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Beaverhead Forest Hydrologist Jeff Reiner</dc:title>
-                    <dc:creator></dc:creator>
-                    <dc:date>8/9/1981</dc:date><dc:description>Beaverhead forest hydrologist Jeff Reiner</dc:description>
-                    <dc:identifier>ajax013</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax013.html</dc:identifier>
-                </oai_dc:dc>
-            </oai:metadata>
-        </oai:record>
-        
-        <oai:record> 
-            <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax014</oai:identifier> 
-                <oai:datestamp>2021-03-31</oai:datestamp>
-            </oai:header>
-            <oai:metadata>
-                <oai_dc:dc 
-                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
-                xmlns:dc="http://purl.org/dc/elements/1.1/" 
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
-                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Beaverhead Talc Mine</dc:title>
-                    <dc:creator></dc:creator>
-                    <dc:date>4/3/1986</dc:date><dc:description>Beaverhead Talc Mine</dc:description>
-                    <dc:identifier>ajax014</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax014.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
@@ -5400,7 +5547,7 @@
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/orvana_reconnaissance001</oai:identifier> 
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/orvana-general001</oai:identifier> 
                 <oai:datestamp>2021-03-31</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -5410,11 +5557,11 @@
                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
                 xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Orvana Reconnaissance Folder Contents</dc:title>
+                    <dc:title>Orvana-General Folder Contents</dc:title>
                     <dc:creator></dc:creator>
                     <dc:date></dc:date><dc:description>Folder Contents</dc:description>
-                    <dc:identifier>orvana_reconnaissance001</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/orvana_reconnaissance001.html</dc:identifier>
+                    <dc:identifier>orvana-general001</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/orvana-general001.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
@@ -5431,7 +5578,7 @@
                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
                 xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>P&amp;R Folder Contents</dc:title>
+                    <dc:title>P &amp; R Folder Contents</dc:title>
                     <dc:creator></dc:creator>
                     <dc:date></dc:date><dc:description>Folder Contents</dc:description>
                     <dc:identifier>p_r001</dc:identifier>
@@ -5452,7 +5599,7 @@
                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
                 xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Park Bald Mountain Folder Contents</dc:title>
+                    <dc:title>Park Folder Contents</dc:title>
                     <dc:creator></dc:creator>
                     <dc:date></dc:date><dc:description>Folder Contents</dc:description>
                     <dc:identifier>park_bald_mountain001</dc:identifier>
@@ -5473,7 +5620,7 @@
                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
                 xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Park Elkhorn Folder Contents</dc:title>
+                    <dc:title>Park Folder Contents</dc:title>
                     <dc:creator></dc:creator>
                     <dc:date></dc:date><dc:description>Folder Contents</dc:description>
                     <dc:identifier>park_elkhorn001</dc:identifier>
@@ -5715,27 +5862,6 @@
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax015</oai:identifier> 
-                <oai:datestamp>2021-03-31</oai:datestamp>
-            </oai:header>
-            <oai:metadata>
-                <oai_dc:dc 
-                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
-                xmlns:dc="http://purl.org/dc/elements/1.1/" 
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
-                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>The Story of Ajax</dc:title>
-                    <dc:creator>Alva Josiah Noyes</dc:creator>
-                    <dc:date>3/28/1905</dc:date><dc:description>The Story of Ajax</dc:description>
-                    <dc:identifier>ajax015</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax015.html</dc:identifier>
-                </oai_dc:dc>
-            </oai:metadata>
-        </oai:record>
-        
-        <oai:record> 
-            <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/puzzler001</oai:identifier> 
                 <oai:datestamp>2021-03-31</oai:datestamp>
             </oai:header>
@@ -5904,7 +6030,7 @@
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/red_top_no_2</oai:identifier> 
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/red_top_no2001</oai:identifier> 
                 <oai:datestamp>2021-03-31</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -5914,11 +6040,11 @@
                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
                 xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Red Top No 2 Folder Contents</dc:title>
+                    <dc:title>Red Top No. 2 Folder Contents</dc:title>
                     <dc:creator></dc:creator>
                     <dc:date></dc:date><dc:description>Folder Contents</dc:description>
-                    <dc:identifier>red_top_no_2</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/red_top_no_2.html</dc:identifier>
+                    <dc:identifier>red_top_no2001</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/red_top_no2001.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
@@ -5961,132 +6087,6 @@
                     <dc:date></dc:date><dc:description>Folder Contents</dc:description>
                     <dc:identifier>rena001</dc:identifier>
                     <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/rena001.html</dc:identifier>
-                </oai_dc:dc>
-            </oai:metadata>
-        </oai:record>
-        
-        <oai:record> 
-            <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax016</oai:identifier> 
-                <oai:datestamp>2021-03-31</oai:datestamp>
-            </oai:header>
-            <oai:metadata>
-                <oai_dc:dc 
-                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
-                xmlns:dc="http://purl.org/dc/elements/1.1/" 
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
-                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Ajax Mine General Informaiton</dc:title>
-                    <dc:creator></dc:creator>
-                    <dc:date></dc:date><dc:description>Ajax mine general informaiton</dc:description>
-                    <dc:identifier>ajax016</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax016.html</dc:identifier>
-                </oai_dc:dc>
-            </oai:metadata>
-        </oai:record>
-        
-        <oai:record> 
-            <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax017</oai:identifier> 
-                <oai:datestamp>2021-03-31</oai:datestamp>
-            </oai:header>
-            <oai:metadata>
-                <oai_dc:dc 
-                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
-                xmlns:dc="http://purl.org/dc/elements/1.1/" 
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
-                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Ajax Location Information and Summary</dc:title>
-                    <dc:creator></dc:creator>
-                    <dc:date></dc:date><dc:description>Ajax Location Information and Summary</dc:description>
-                    <dc:identifier>ajax017</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax017.html</dc:identifier>
-                </oai_dc:dc>
-            </oai:metadata>
-        </oai:record>
-        
-        <oai:record> 
-            <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax018</oai:identifier> 
-                <oai:datestamp>2021-03-31</oai:datestamp>
-            </oai:header>
-            <oai:metadata>
-                <oai_dc:dc 
-                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
-                xmlns:dc="http://purl.org/dc/elements/1.1/" 
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
-                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Ajax Mine General Information</dc:title>
-                    <dc:creator></dc:creator>
-                    <dc:date></dc:date><dc:description>Ajax mine general information</dc:description>
-                    <dc:identifier>ajax018</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax018.html</dc:identifier>
-                </oai_dc:dc>
-            </oai:metadata>
-        </oai:record>
-        
-        <oai:record> 
-            <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax019</oai:identifier> 
-                <oai:datestamp>2021-03-31</oai:datestamp>
-            </oai:header>
-            <oai:metadata>
-                <oai_dc:dc 
-                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
-                xmlns:dc="http://purl.org/dc/elements/1.1/" 
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
-                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Report on the Ajax Group</dc:title>
-                    <dc:creator>Fred Greene</dc:creator>
-                    <dc:date></dc:date><dc:description>Report on the Ajax Group</dc:description>
-                    <dc:identifier>ajax019</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax019.html</dc:identifier>
-                </oai_dc:dc>
-            </oai:metadata>
-        </oai:record>
-        
-        <oai:record> 
-            <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax020</oai:identifier> 
-                <oai:datestamp>2021-03-31</oai:datestamp>
-            </oai:header>
-            <oai:metadata>
-                <oai_dc:dc 
-                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
-                xmlns:dc="http://purl.org/dc/elements/1.1/" 
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
-                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Mineral Resources of the West Big Hole Study Area, Beaverhead County, Montana</dc:title>
-                    <dc:creator>David A. Lipton; Martin D. Conyac; Spencer L. Willettt</dc:creator>
-                    <dc:date>1988</dc:date><dc:description>Mineral Resources of the West Big Hole Study Area, Beaverhead County, Montana</dc:description>
-                    <dc:identifier>ajax020</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax020.html</dc:identifier>
-                </oai_dc:dc>
-            </oai:metadata>
-        </oai:record>
-        
-        <oai:record> 
-            <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax021</oai:identifier> 
-                <oai:datestamp>2021-03-31</oai:datestamp>
-            </oai:header>
-            <oai:metadata>
-                <oai_dc:dc 
-                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
-                xmlns:dc="http://purl.org/dc/elements/1.1/" 
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
-                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>USBOM Ajax Location Information</dc:title>
-                    <dc:creator></dc:creator>
-                    <dc:date></dc:date><dc:description>USBOM Ajax Location Information</dc:description>
-                    <dc:identifier>ajax021</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/ajax021.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
@@ -6387,7 +6387,7 @@
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/silver_king_t3s_r11w_s11001</oai:identifier> 
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/silver_king_T3S_R11W_S11001</oai:identifier> 
                 <oai:datestamp>2021-03-31</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -6400,15 +6400,15 @@
                     <dc:title>Silver King T3S R11W S11 Folder Contents</dc:title>
                     <dc:creator></dc:creator>
                     <dc:date></dc:date><dc:description>Folder Contents</dc:description>
-                    <dc:identifier>silver_king_t3s_r11w_s11001</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/silver_king_t3s_r11w_s11001.html</dc:identifier>
+                    <dc:identifier>silver_king_T3S_R11W_S11001</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/silver_king_T3S_R11W_S11001.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/silver_king_t5s_r12w_s28001</oai:identifier> 
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/silver_king_T5S_R12W_S28001</oai:identifier> 
                 <oai:datestamp>2021-03-31</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -6421,8 +6421,8 @@
                     <dc:title>Silver King T5S R12W S28 Folder Contents</dc:title>
                     <dc:creator></dc:creator>
                     <dc:date></dc:date><dc:description>Folder Contents</dc:description>
-                    <dc:identifier>silver_king_t5s_r12w_s28001</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/silver_king_t5s_r12w_s28001.html</dc:identifier>
+                    <dc:identifier>silver_king_T5S_R12W_S28001</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/silver_king_T5S_R12W_S28001.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
@@ -6639,7 +6639,7 @@
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/star_1_2_3001</oai:identifier> 
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/star_123001</oai:identifier> 
                 <oai:datestamp>2021-03-31</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -6649,39 +6649,18 @@
                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
                 xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Star 1 2 3 Folder Contents</dc:title>
+                    <dc:title>Star 123 Folder Contents</dc:title>
                     <dc:creator></dc:creator>
                     <dc:date></dc:date><dc:description>Folder Contents</dc:description>
-                    <dc:identifier>star_1_2_3001</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/star_1_2_3001.html</dc:identifier>
+                    <dc:identifier>star_123001</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/star_123001.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/starlight_t10s_r14w_s5001</oai:identifier> 
-                <oai:datestamp>2021-03-31</oai:datestamp>
-            </oai:header>
-            <oai:metadata>
-                <oai_dc:dc 
-                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
-                xmlns:dc="http://purl.org/dc/elements/1.1/" 
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
-                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Starlight T10S R14W S5 Folder Contents</dc:title>
-                    <dc:creator></dc:creator>
-                    <dc:date></dc:date><dc:description>Folder Contents</dc:description>
-                    <dc:identifier>starlight_t10s_r14w_s5001</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/starlight_t10s_r14w_s5001.html</dc:identifier>
-                </oai_dc:dc>
-            </oai:metadata>
-        </oai:record>
-        
-        <oai:record> 
-            <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/starlight_t6s_r10w_s22001</oai:identifier> 
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/starlight_T6S_R10W_S22001</oai:identifier> 
                 <oai:datestamp>2021-03-31</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -6694,15 +6673,15 @@
                     <dc:title>Starlight T6S R10W S22 Folder Contents</dc:title>
                     <dc:creator></dc:creator>
                     <dc:date></dc:date><dc:description>Folder Contents</dc:description>
-                    <dc:identifier>starlight_t6s_r10w_s22001</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/starlight_t6s_r10w_s22001.html</dc:identifier>
+                    <dc:identifier>starlight_T6S_R10W_S22001</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/starlight_T6S_R10W_S22001.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/starlight_t6s_r11w_s24001</oai:identifier> 
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/starlight_T6S_R11W_S24001</oai:identifier> 
                 <oai:datestamp>2021-03-31</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -6715,8 +6694,29 @@
                     <dc:title>Starlight T6S R11W S24 Folder Contents</dc:title>
                     <dc:creator></dc:creator>
                     <dc:date></dc:date><dc:description>Folder Contents</dc:description>
-                    <dc:identifier>starlight_t6s_r11w_s24001</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/starlight_t6s_r11w_s24001.html</dc:identifier>
+                    <dc:identifier>starlight_T6S_R11W_S24001</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/starlight_T6S_R11W_S24001.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/starlight_T10S_R14W_S5001</oai:identifier> 
+                <oai:datestamp>2021-03-31</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Starlight T10S R14W S5 Folder Contents</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:date></dc:date><dc:description>Folder Contents</dc:description>
+                    <dc:identifier>starlight_T10S_R14W_S5001</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/starlight_T10S_R14W_S5001.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
@@ -6786,7 +6786,7 @@
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/sweeney_t13s_r12w_s1001</oai:identifier> 
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/sweeney_T7S_R12W_S22001</oai:identifier> 
                 <oai:datestamp>2021-03-31</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -6796,18 +6796,18 @@
                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
                 xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Sweeney T13S R12W S1 Folder Contents</dc:title>
+                    <dc:title>Sweeney  T7S R12W S22 Folder Contents</dc:title>
                     <dc:creator></dc:creator>
                     <dc:date></dc:date><dc:description>Folder Contents</dc:description>
-                    <dc:identifier>sweeney_t13s_r12w_s1001</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/sweeney_t13s_r12w_s1001.html</dc:identifier>
+                    <dc:identifier>sweeney_T7S_R12W_S22001</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/sweeney_T7S_R12W_S22001.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/sweeney_t7s_r12w_s22001</oai:identifier> 
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/sweeney_T13S_R12W_S1001</oai:identifier> 
                 <oai:datestamp>2021-03-31</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -6817,11 +6817,11 @@
                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
                 xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Sweeney T7S R12W S22 Folder Contents</dc:title>
+                    <dc:title>Sweeney  T13S R12W S1 Folder Contents</dc:title>
                     <dc:creator></dc:creator>
                     <dc:date></dc:date><dc:description>Folder Contents</dc:description>
-                    <dc:identifier>sweeney_t7s_r12w_s22001</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/sweeney_t7s_r12w_s22001.html</dc:identifier>
+                    <dc:identifier>sweeney_T13S_R12W_S1001</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/sweeney_T13S_R12W_S1001.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
@@ -6912,7 +6912,7 @@
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/thunderbird_001</oai:identifier> 
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/thunderbird001</oai:identifier> 
                 <oai:datestamp>2021-03-31</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -6925,8 +6925,8 @@
                     <dc:title>Thunderbird Folder Contents</dc:title>
                     <dc:creator></dc:creator>
                     <dc:date></dc:date><dc:description>Folder Contents</dc:description>
-                    <dc:identifier>thunderbird_001</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/thunderbird_001.html</dc:identifier>
+                    <dc:identifier>thunderbird001</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/thunderbird001.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
@@ -7006,7 +7006,7 @@
                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
                 xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Tri State Minerals Folder Contents</dc:title>
+                    <dc:title>Tri-State Minerals Folder Contents</dc:title>
                     <dc:creator></dc:creator>
                     <dc:date></dc:date><dc:description>Folder Contents</dc:description>
                     <dc:identifier>tri_state_minerals001</dc:identifier>
@@ -7080,7 +7080,7 @@
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/tungsten_general001</oai:identifier> 
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/tungsten_-_general001</oai:identifier> 
                 <oai:datestamp>2021-03-31</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -7090,11 +7090,11 @@
                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
                 xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Tungsten General Folder Contents</dc:title>
+                    <dc:title>Tungsten - General Folder Contents</dc:title>
                     <dc:creator></dc:creator>
                     <dc:date></dc:date><dc:description>Folder Contents</dc:description>
-                    <dc:identifier>tungsten_general001</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/tungsten_general001.html</dc:identifier>
+                    <dc:identifier>tungsten_-_general001</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/tungsten_-_general001.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
@@ -7164,7 +7164,7 @@
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/unnamed_manganese001</oai:identifier> 
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/unnamed_manganese_property001</oai:identifier> 
                 <oai:datestamp>2021-03-31</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -7174,18 +7174,18 @@
                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
                 xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Unnamed Manganese Folder Contents</dc:title>
+                    <dc:title>Unnamed Manganese Property Folder Contents</dc:title>
                     <dc:creator></dc:creator>
                     <dc:date></dc:date><dc:description>Folder Contents</dc:description>
-                    <dc:identifier>unnamed_manganese001</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/unnamed_manganese001.html</dc:identifier>
+                    <dc:identifier>unnamed_manganese_property001</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/unnamed_manganese_property001.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/up_two001</oai:identifier> 
+                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/up-two001</oai:identifier> 
                 <oai:datestamp>2021-03-31</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -7195,11 +7195,11 @@
                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
                 xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Up Two Folder Contents</dc:title>
+                    <dc:title>Up-Two Folder Contents</dc:title>
                     <dc:creator></dc:creator>
                     <dc:date></dc:date><dc:description>Folder Contents</dc:description>
-                    <dc:identifier>up_two001</dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/up_two001.html</dc:identifier>
+                    <dc:identifier>up-two001</dc:identifier>
+                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/up-two001.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
@@ -7662,27 +7662,6 @@
                     <dc:date></dc:date><dc:description>Folder Contents</dc:description>
                     <dc:identifier>yellow_bird001</dc:identifier>
                     <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/yellow_bird001.html</dc:identifier>
-                </oai_dc:dc>
-            </oai:metadata>
-        </oai:record>
-        
-        <oai:record> 
-            <oai:header>
-                <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/</oai:identifier> 
-                <oai:datestamp>2021-03-31</oai:datestamp>
-            </oai:header>
-            <oai:metadata>
-                <oai_dc:dc 
-                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
-                xmlns:dc="http://purl.org/dc/elements/1.1/" 
-                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
-                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title></dc:title>
-                    <dc:creator></dc:creator>
-                    <dc:date></dc:date><dc:description></dc:description>
-                    <dc:identifier></dc:identifier>
-                    <dc:identifier>/Information/Collections/Mine-Files/Beaverhead/items/.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
