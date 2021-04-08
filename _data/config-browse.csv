@@ -2,3 +2,5 @@ field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 district,District,true,,District
 claim name,Claim,true,,Claim Name
+subject,Subject,,true,
+associated name,Associated Name,,true

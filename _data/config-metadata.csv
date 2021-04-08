@@ -3,6 +3,7 @@ title,Title,,DCTERMS.title,headline
 creator,Creator,,DCTERMS.creator,creator
 date,Date Created,,DCTERMS.created,dateCreated
 description,Description,,DCTERMS.description,description
+subjects,Subjects,true,DCTERMS.subject,keywords
 claim name,Claim,true
 district,District,true
 township,Township
