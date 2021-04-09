@@ -2,7 +2,7 @@ display_name,stub,dropdown_parent
 Home,/,
 Browse,/browse.html,
 District,/subjects.html,
-Claim,/locations.html,
+Location,/locations.html,
 Map,/map.html,
 Timeline,/timeline.html,
 Data,/data.html,
