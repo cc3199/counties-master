@@ -1,0 +1,15 @@
+---
+# find and count unique claims
+---
+{%- if site.data.theme.claims-fields -%}
+{%- assign claims-fields = site.data.theme.claims-fields | split: ";" -%}
+{%- assign claims = "" -%}
+{%- for c in claims-fields -%}
+{% assign new = site.data[site.metadata] | map: c | join: ";" %}
+{% assign claims = claims | append: ";" | append: new %}
+{%- endfor -%}
+{%- assign uniqclaims = claims | downcase | split: ";" | array_count_uniq -%}
+{ "claims": [
+    {% for s in uniqclaims %}{ "claim" : {{ s[0] | jsonify }}, "count" : {{ s[1] | jsonify }}, "link" : {{ s[0] | url_param_escape | prepend: '/browse.html#' | absolute_url | jsonify }} }{% unless forloop.last %},
+    {% endunless %}{% endfor %}
+]}{%- endif -%}

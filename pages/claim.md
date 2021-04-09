@@ -4,6 +4,8 @@ layout: claim
 permalink: /claim.html
 ---
 
+{% include js/cloud-js.html %}
+
 ## Browse Claims
 
 Use this word cloud visualization to browse terms and subjects.
