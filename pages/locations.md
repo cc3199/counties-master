@@ -4,7 +4,7 @@ layout: locations
 permalink: /locations.html
 ---
 
-## Browse Locations
+## Browse Claims and Districts
 
-Use this word cloud visualization to browse locations.
+Use this word cloud visualization to browse claims and districts.
 Word size is determined by frequency and all words link to a corresponding collection search.
