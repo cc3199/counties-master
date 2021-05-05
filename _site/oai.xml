@@ -9,7 +9,7 @@
         <oai:baseURL>http://gateway.institution.org/oai//Information/Collections/Mine-Files/Beaverhead/oai.xml</oai:baseURL>
         <oai:protocolVersion>2.0</oai:protocolVersion>
         <oai:adminEmail>libstatic.uidaho@gmail.com</oai:adminEmail>
-        <oai:earliestDatestamp>2021-04-12</oai:earliestDatestamp>
+        <oai:earliestDatestamp>2021-05-05</oai:earliestDatestamp>
         <oai:deletedRecord>no</oai:deletedRecord>
         <oai:granularity>YYYY-MM-DD</oai:granularity>
     </Identify>
@@ -25,7 +25,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -46,7 +46,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax002</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -67,7 +67,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax003</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -88,7 +88,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax004</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -109,7 +109,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax005</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -130,7 +130,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax006</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -151,7 +151,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax007</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -172,7 +172,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax008</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -193,7 +193,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax009</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -214,7 +214,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax010</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -235,7 +235,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax011</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -256,7 +256,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax012</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -277,7 +277,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax013</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -298,7 +298,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax014</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -319,7 +319,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax015</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -340,7 +340,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax016</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -361,7 +361,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax017</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -382,7 +382,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax018</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -403,7 +403,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax019</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -424,7 +424,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax020</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -445,7 +445,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajax021</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -466,7 +466,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ajack001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -487,7 +487,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/alice001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -508,7 +508,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/alexander001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -529,7 +529,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/alumont001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -550,7 +550,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/anaconda001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -571,7 +571,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/anita001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -592,7 +592,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/arcadia001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -613,7 +613,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/aragenta001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -634,7 +634,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/argerila001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -655,7 +655,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/argyle001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -676,7 +676,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ariadne001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -697,7 +697,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/aspen001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -718,7 +718,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/associated001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -739,7 +739,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/aurora001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -760,7 +760,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/axes001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -781,7 +781,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/badger001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -802,7 +802,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/bannack001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -823,7 +823,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/beaann001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -844,7 +844,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/beaverhead001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -865,7 +865,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/bella001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -886,7 +886,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/benton001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -907,7 +907,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/bentonite001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -928,7 +928,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/berlin001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -949,7 +949,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/birchcreek001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -970,7 +970,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/birchcreekiron001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -991,7 +991,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/birchcreeknickel001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1012,7 +1012,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/bluebell001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1033,7 +1033,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/blueeyedannie001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1054,7 +1054,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/bluegrass001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1075,7 +1075,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/bluejay001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1096,7 +1096,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/bluewing001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1117,7 +1117,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/bluebird001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1138,7 +1138,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/bonaccord001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1159,7 +1159,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/bonanza001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1180,7 +1180,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/bostania001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1201,7 +1201,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/bostongroup001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1222,7 +1222,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/bozeadar001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1243,7 +1243,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/bozo001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1264,7 +1264,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/brownbear001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1285,7 +1285,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/brownslake001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1306,7 +1306,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/burgierosa001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1327,7 +1327,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/buster001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1348,7 +1348,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/buttevipondmine001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1369,7 +1369,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/calvert001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1390,7 +1390,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/campcreek001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1411,7 +1411,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/cannivangulchmoly001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1432,7 +1432,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/canyoncreek001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1453,7 +1453,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/capitolmine001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1474,7 +1474,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/carbonatemine001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1495,7 +1495,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/carrollplacer001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1516,7 +1516,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/cartercreekiron001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1537,7 +1537,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/centennialmine001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1558,7 +1558,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/central001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1579,7 +1579,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/charteroakmine001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1600,7 +1600,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/chinatown001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1621,7 +1621,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/chloride001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1642,7 +1642,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/churchill001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1663,7 +1663,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/cleopatra001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1684,7 +1684,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/cleve_avon_mine001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1705,7 +1705,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/clipper001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1726,7 +1726,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/comet_mine001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1747,7 +1747,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/coolidge001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1768,7 +1768,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/coolridge001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1789,7 +1789,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/copper_bell001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1810,7 +1810,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/copper_queen001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1831,7 +1831,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/cottontail_mine001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1852,7 +1852,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/cowan_bar_placer001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1873,7 +1873,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/crescent001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1894,7 +1894,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/crown_smith_dillon001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1915,7 +1915,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/crystal_graphite001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1936,7 +1936,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/daisy_may001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1957,7 +1957,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/dakota001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1978,7 +1978,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/dalys_spur001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -1999,7 +1999,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/dark_horse001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2020,7 +2020,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/davis_mine001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2041,7 +2041,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/del_monte001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2062,7 +2062,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/dexter_mine001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2083,7 +2083,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/diadem_mine001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2104,7 +2104,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/diamond001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2125,7 +2125,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/dillon_mine001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2146,7 +2146,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/dillon_nickel001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2167,7 +2167,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/discolor001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2188,7 +2188,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/doodle_bug001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2209,7 +2209,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/dubious001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2230,7 +2230,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/dubuque001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2251,7 +2251,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/dyce_creek_placer001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2272,7 +2272,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/eagle001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2293,7 +2293,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/echo_lode001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2314,7 +2314,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/elk_creek_vermiculite001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2335,7 +2335,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/elkhorn001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2356,7 +2356,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/elm_orlu001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2377,7 +2377,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/empire001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2398,7 +2398,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ermont001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2419,7 +2419,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ermont_placer001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2440,7 +2440,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/evolution001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2461,7 +2461,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/excelsior001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2482,7 +2482,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/fair_play001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2503,7 +2503,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/fairview001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2524,7 +2524,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/faithful_bald_mtn001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2545,7 +2545,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/faithful_vipond_park001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2566,7 +2566,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ferdinand001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2587,7 +2587,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/finvalley001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2608,7 +2608,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/florence001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2629,7 +2629,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/free_silver001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2650,7 +2650,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/french_millsite001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2671,7 +2671,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/galena001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2692,7 +2692,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/gallup001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2713,7 +2713,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/garret001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2734,7 +2734,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/gladstone001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2755,7 +2755,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/glen_tungsten_mill001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2776,7 +2776,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/gold_bug001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2797,7 +2797,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/gold_button001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2818,7 +2818,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/gold_crown001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2839,7 +2839,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/gold_nugget001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2860,7 +2860,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/gold_nugget_placer001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2881,7 +2881,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/gold_ridge_mine001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2902,7 +2902,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/golden_dawn001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2923,7 +2923,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/golden_eagle001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2944,7 +2944,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/golden_era001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2965,7 +2965,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/golden_gate001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -2986,7 +2986,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/golden_leaf001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3007,7 +3007,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/goldfinch001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3028,7 +3028,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/goldmont001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3049,7 +3049,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/goldsmith001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3070,7 +3070,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/goldstone001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3091,7 +3091,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/goodview001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3112,7 +3112,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/governor001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3133,7 +3133,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/governor_tilden001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3154,7 +3154,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/grace_no_1_prospect001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3175,7 +3175,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/graphite_deposit001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3196,7 +3196,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/grasshopper_1_lode001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3217,7 +3217,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/grasshopper_placer001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3238,7 +3238,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/grasshopper_prospect001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3259,7 +3259,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/gray_jockey001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3280,7 +3280,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/graybird001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3301,7 +3301,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/great_western001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3322,7 +3322,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/green_lizard001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3343,7 +3343,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/greenstone001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3364,7 +3364,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/greenwich001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3385,7 +3385,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/greenwood_tailings001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3406,7 +3406,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/grotto001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3427,7 +3427,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ground_hog001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3448,7 +3448,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/guy001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3469,7 +3469,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/h_s001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3490,7 +3490,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/haggerty001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3511,7 +3511,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/hamilton001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3532,7 +3532,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/hand_mine001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3553,7 +3553,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/hazel001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3574,7 +3574,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/hecla001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3595,7 +3595,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/helena001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3616,7 +3616,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/hendricks001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3637,7 +3637,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/hidden_treasure001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3658,7 +3658,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/hillside001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3679,7 +3679,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/hoffman_group001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3700,7 +3700,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/hogback001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3721,7 +3721,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/homestake001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3742,7 +3742,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/homestake_t14s_r12w001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3763,7 +3763,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/horace001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3784,7 +3784,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/horn_silver001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3805,7 +3805,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/horse_prairie001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3826,7 +3826,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/hrs_claim_group001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3847,7 +3847,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/humboldt001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3868,7 +3868,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/huron001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3889,7 +3889,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/idanha001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3910,7 +3910,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/indian_chief001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3931,7 +3931,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/indian_queen001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3952,7 +3952,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ingersoll001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3973,7 +3973,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/iron_age001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -3994,7 +3994,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/iron_mask001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4015,7 +4015,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/iron_mountain001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4036,7 +4036,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ivanhoe001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4057,7 +4057,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ixl001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4078,7 +4078,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/jack_rabbit001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4099,7 +4099,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/jackson001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4120,7 +4120,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/jahnke001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4141,7 +4141,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/jake001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4162,7 +4162,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/jeanette001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4183,7 +4183,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/jeff_davis001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4204,7 +4204,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/junction001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4225,7 +4225,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/kent001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4246,7 +4246,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/keokuk001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4267,7 +4267,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/keystone_bryant001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4288,7 +4288,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/keystone_chinatown001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4309,7 +4309,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/lacy_creek001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4330,7 +4330,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/lamplighter001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4351,7 +4351,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/laurilene_no_1</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4372,7 +4372,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/leadville001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4393,7 +4393,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/leah_may001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4414,7 +4414,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/leap_year001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4435,7 +4435,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/legal_tender001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4456,7 +4456,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/lentung001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4477,7 +4477,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/lincoln001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4498,7 +4498,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/linda001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4519,7 +4519,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/lion_mountain001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4540,7 +4540,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/little_bell001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4561,7 +4561,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/little_hawk001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4582,7 +4582,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/little_nugget001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4603,7 +4603,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/little_sheep001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4624,7 +4624,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/lone_pine001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4645,7 +4645,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/lost_cloud001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4666,7 +4666,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/lost_creek001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4687,7 +4687,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/lost_creek002</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4708,7 +4708,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/lost_creek003</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4729,7 +4729,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/lost_creek004</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4750,7 +4750,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/lucky_jim_beam001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4771,7 +4771,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/lucky_strike_argenta001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4792,7 +4792,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/lucky_strike_horse_prairie001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4813,7 +4813,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/lucky_strike_vipond001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4834,7 +4834,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/lulu001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4855,7 +4855,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/lynx_lode001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4876,7 +4876,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/maiden_creek_copper001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4897,7 +4897,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/mark_twain001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4918,7 +4918,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/martin001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4939,7 +4939,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/mary001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4960,7 +4960,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/maudlin_mine001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -4981,7 +4981,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/mayday001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5002,7 +5002,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/mccarthy001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5023,7 +5023,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/mcconnell001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5044,7 +5044,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/midnight001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5065,7 +5065,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/minnie_gaffney001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5086,7 +5086,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/miwanatock001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5107,7 +5107,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/montana_lode001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5128,7 +5128,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/monte_cristo001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5149,7 +5149,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/montezuma001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5170,7 +5170,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/montreal001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5191,7 +5191,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/monument001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5212,7 +5212,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/moosehorn001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5233,7 +5233,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/mountain_sheep001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5254,7 +5254,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/nevada001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5275,7 +5275,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/new_ariadne001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5296,7 +5296,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/new_deal001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5317,7 +5317,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/new_departure001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5338,7 +5338,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/new_year_1910001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5359,7 +5359,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/niagara001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5380,7 +5380,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/nick_preen001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5401,7 +5401,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/nickel_lode001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5422,7 +5422,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/north_star001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5443,7 +5443,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/old_elkhorn001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5464,7 +5464,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/old_faithful001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5485,7 +5485,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/oneida_mine001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5506,7 +5506,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/oro_fino001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5527,7 +5527,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/oro_placer001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5548,7 +5548,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/orvana_general001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5569,7 +5569,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/p_r001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5590,7 +5590,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/park_bald_mountain001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5611,7 +5611,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/park_elkhorn001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5632,7 +5632,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/payday001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5653,7 +5653,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/peat_lease001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5674,7 +5674,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/peterson_deposit001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5695,7 +5695,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/pine_tree001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5716,7 +5716,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/pioneer001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5737,7 +5737,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/pioneer_placer001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5758,7 +5758,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/placer_creek001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5779,7 +5779,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/polaris001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5800,7 +5800,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/pomeroy001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5821,7 +5821,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/pride_of_the_west001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5842,7 +5842,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/priscilla001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5863,7 +5863,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/puzzler001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5884,7 +5884,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/quartz_hill001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5905,7 +5905,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/queen_mab001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5926,7 +5926,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/queen_of_the_hills001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5947,7 +5947,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ram_lode001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5968,7 +5968,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/randall001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -5989,7 +5989,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/red_sky001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6010,7 +6010,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/red_steer_prospect001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6031,7 +6031,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/red_top_no2001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6052,7 +6052,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/reliance001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6073,7 +6073,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/rena001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6094,7 +6094,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/rosalind001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6115,7 +6115,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/rosebud001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6136,7 +6136,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/rosemont001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6157,7 +6157,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/royal001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6178,7 +6178,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ruby_creek_placer001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6199,7 +6199,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ruby_mine001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6220,7 +6220,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ruby_quartz_lode001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6241,7 +6241,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/san_francisco001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6262,7 +6262,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/sata_maira_rainbow001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6283,7 +6283,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/shafer_prospect001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6304,7 +6304,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/sheep_mountain001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6325,7 +6325,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/silver_belle001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6346,7 +6346,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/silver_dollar001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6367,7 +6367,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/silver_glow001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6388,7 +6388,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/silver_king_T3S_R11W_S11001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6409,7 +6409,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/silver_king_T5S_R12W_S28001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6430,7 +6430,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/silver_quartz001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6451,7 +6451,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/silver_queen001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6472,7 +6472,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/silver_ridge_group001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6493,7 +6493,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/silver_star001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6514,7 +6514,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/sir_walter_scott001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6535,7 +6535,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/sleeping_princess_group001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6556,7 +6556,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/smith_dillon_talc001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6577,7 +6577,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/southside_placer001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6598,7 +6598,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/spanish001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6619,7 +6619,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/springfield001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6640,7 +6640,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/star_123001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6661,7 +6661,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/starlight_T6S_R10W_S22001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6682,7 +6682,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/starlight_T6S_R11W_S24001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6703,7 +6703,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/starlight_T10S_R14W_S5001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6724,7 +6724,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/stone_creek001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6745,7 +6745,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/storm001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6766,7 +6766,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/sunshine001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6787,7 +6787,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/sweeney_T7S_R12W_S22001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6808,7 +6808,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/sweeney_T13S_R12W_S1001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6829,7 +6829,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/sylvia001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6850,7 +6850,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/telstar001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6871,7 +6871,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/tender001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6892,7 +6892,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/thomas_paine001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6913,7 +6913,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/thunderbird001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6934,7 +6934,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/tiger001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6955,7 +6955,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/trapper001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6976,7 +6976,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/trapper_creek001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -6997,7 +6997,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/tri_state_minerals001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7018,7 +7018,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/true_blue_millsite001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7039,7 +7039,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/true_dog_group001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7060,7 +7060,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/true_fissure001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7081,7 +7081,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/tungsten_-_general001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7102,7 +7102,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/tuscarora001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7123,7 +7123,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/tuxedo001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7144,7 +7144,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/ucon001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7165,7 +7165,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/unnamed_manganese_property001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7186,7 +7186,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/up-two001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7207,7 +7207,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/vanguard_group001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7228,7 +7228,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/vilet001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7249,7 +7249,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/virginia001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7270,7 +7270,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/virginia_gulch001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7291,7 +7291,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/volcanic_gold001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7312,7 +7312,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/wadams001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7333,7 +7333,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/wallace001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7354,7 +7354,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/wapita001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7375,7 +7375,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/washington001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7396,7 +7396,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/washington_mine001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7417,7 +7417,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/west_ermont001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7438,7 +7438,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/wheal_rose001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7459,7 +7459,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/white_lime001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7480,7 +7480,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/white_owl001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7501,7 +7501,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/white_seal001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7522,7 +7522,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/wild_bat001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7543,7 +7543,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/wise_river001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7564,7 +7564,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/wise_river_placer001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7585,7 +7585,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/wooley001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7606,7 +7606,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/wra001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7627,7 +7627,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/yellow_band001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
@@ -7648,7 +7648,7 @@
         <oai:record> 
             <oai:header>
                 <oai:identifier>oai::InformationCollectionsMine-FilesBeaverhead/yellow_bird001</oai:identifier> 
-                <oai:datestamp>2021-04-12</oai:datestamp>
+                <oai:datestamp>2021-05-05</oai:datestamp>
             </oai:header>
             <oai:metadata>
                 <oai_dc:dc 
