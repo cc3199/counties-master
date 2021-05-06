@@ -1,10 +1,8 @@
 display_name,stub,dropdown_parent
 Home,/,
 Browse,/browse.html,
-<<<<<<< Updated upstream
 Subject,/subjects.html,
-=======
->>>>>>> Stashed changes
 Claim,/locations.html,
 Map,/map.html,
+Timeline,/timeline.html,
 Data,/data.html,
