@@ -10,7 +10,7 @@
 # site domain, full URL to the production location of your collection
 url: 
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl:
+baseurl: /master
 # location of code, the full url to your github repository
 source-code: https://github.com/CollectionBuilder/collectionbuilder-sa
 
@@ -18,14 +18,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sa
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Beaverhead Mine Documents
+title: Counties Master Page
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Mining Claim Information for Beaverhead County
+tagline: Mining Claim Information for Montana Counties
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This collection contains mining documents for properties and claims within Beaverhead County in southwest Montana. These documents include assays, correspondence, maps, news clippings, photos, publications, reports, surveys, or other material related to any property. This webpage allows viewers to browse and search by claim or district on the navigation tabs above. Or you can search any keywords into the search bar. The 'Map' or 'Timeline' tabs may also aid in research and finding material using different contexts."
+description: "This collection contains mining documents for properties and claims within counties in Montana. These documents include assays, correspondence, maps, news clippings, photos, publications, reports, surveys, or other material related to any property. This webpage allows viewers to browse and search by claim or district on the navigation tabs above. Or you can search any keywords into the search bar. The 'Map' or 'Timeline' tabs may also aid in research and finding material using different contexts."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: montana; beaverhead; mining claims; property files; mines; 
+keywords: montana; mining claims; property files; mines; 
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Montana Bureau of Mines and Geology
 # Organization branding
@@ -41,11 +41,11 @@ organization-logo-nav: assets\img\logombmg.png
 # If using local folder, dir name with proceeding slash. If using external web location, provide full URL
 objects: /objects 
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: beaverhead-metadata
+metadata: county-metadata
 # page generation settings 
 # "data" value must be the name of the metadata file (other values should be not be changed)
 page_gen:
-  - data: 'beaverhead-metadata'
+  - data: 'county-metadata'
     template: 'items'
     name: 'objectid'
     dir: 'items'
